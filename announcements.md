@@ -1,8 +1,8 @@
 # Announcements
 
-**Rav Yehuda Russak, Rabbi
+**Rav Yehuda Russak, Rabbi**
 
-**Board of Directors: Pinchas Nussbaum, Chaim Knopf, Shaya Schiffman , Chesky Kranczer, Yisroel Kaplan 
+**Board of Directors: Pinchas Nussbaum, Chaim Knopf, Shaya Schiffman , Chesky Kranczer, Yisroel Kaplan**
 
 **Ner L'Maor** - Chodesh Adar is sponsored anonymously: 
 
@@ -15,9 +15,9 @@
 נחום לייב בן יעקב מרדכי
 
 
-**Likras Shabbos** 4:55pm, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
+**Likras Shabbos 4:55pm**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-**Ramban Shiur** Shabbos morning is given by the Rav at 8:20am
+**Ramban Shiur** Shabbos morning is given by the Rav at **8:20am**
 
 **Parsha Shiur** by the Rav on Thursday night after Maariv, until 9:00pm. Thank you to Yaakov Gluck for providing the hot food. 
 
@@ -29,7 +29,7 @@ Please speak to Yossi Royde regarding sponsorship ($25)
 
 
 
-**Women’s Tehilim** is by Smith, 8 Carriage Ln, at 2:30pm 
+**Women’s Tehilim** is by Smith, 8 Carriage Ln, at **2:30pm** 
 
 **Women’s Taharas Hamishpacha Class**: Sunday night @ Krasnow, 6 Bonnie Ct, **8:15pm**. Newcomers welcome! (Note new time) 
 
