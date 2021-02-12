@@ -16,8 +16,7 @@
 
 **Motzei Shabbos Learning** is at **7:10pm**. This week's program is sponsored by the Vaksman family for a Zechus for Beracha and Hatzlacha and for a זכות רפואה שלימה for Gennady ben Rahil and  נטע יצחק בן רחל
 
-**Yorucha** program - is sponsored by Rabbi Huerta. He would like to share the following message: 
- ....when I was young one of my mentors and guides was Rav Gedalia Dov Schwartz, ז''ל (January 24, 1925— December 9, 2020) ..we spent time when he was in Boro Park and I was in grad school....he taught me kindness, and the importance of unity in עם ישראל...thank you. 
+**Yorucha** program - is sponsored by Rabbi Huerta.
 Please speak to Yossi Royde regarding sponsorship ($25)
 
 **Women’s Tehilim** is by Smith, 8 Carriage Ln, at **2:30pm** 
