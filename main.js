@@ -148,7 +148,7 @@ const getSchedule = (m) => {
     const EVENTS = {
         sundayShacharis: {
             label: "Shacharis",
-            value: "8:15 AM",
+            value: "8:00 AM",
         },
         yorucha: {
             label: "Yorucha",
