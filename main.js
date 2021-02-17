@@ -207,7 +207,7 @@ const getSchedule = (m) => {
         likrasShabbos: {
             label: "Likras Shabbos",
             value: moment(getZmanim(m).CandleLighting)
-                .add(8, "minutes")
+                .add(5, "minutes")
                 .subtract(20, "minutes"),
         },
         shabbosMariv: {
@@ -292,6 +292,7 @@ const getSchedule = (m) => {
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
                 EVENTS.candleLighting,
+                EVENTS.likrasShabbos,
                 EVENTS.minchaErevShabbos,
                 EVENTS.dafYomiFridayNight,
             ];
