@@ -154,6 +154,10 @@ const getSchedule = (m) => {
             label: "Yorucha",
             value: "9:30 AM",
         },
+        rambanShiur: {
+            label: "Rav's Ramban Shiur",
+            value: "8:20 AM",
+        },
         minchaMariv: {
             label: "Mincha/Mariv",
             value: moment(getZmanim(m).Sunset).subtract(12, "minutes"),
