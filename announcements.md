@@ -18,7 +18,9 @@
 
 **Parsha Shiur** by the Rav on Thursday night after Maariv, until 9:00pm.  
 
-**Motzei Shabbos Learning** is at **7:10pm**. This week's program is sponsored by the Vaksman family for a Zechus for Beracha and Hatzlacha and for a זכות רפואה שלימה for Gennady ben Rahil and  נטע יצחק בן רחל
+**Motzei Shabbos Learning** is at **7:15pm**. This week's program is sponsored iluy nishmas Yaakov Ben Yehuda Leib and as a Zchus Refuah Sheleimah for נטע יצחק בן רחל.
+There will also be a prize for every participant as it is the last week. 
+We would like to take this opportunity to thank all those who were involved in the successful running of the program. 
 
 **Yorucha** program dealing with Sugyos relating to practical business halacha takes
 place each Sunday morning
