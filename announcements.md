@@ -1,10 +1,12 @@
 פורים תשפ"א
 
+
 תענית אסתר
 
 Taanis begins – 5:24 AM
 
 5:15 – מנחה
+
 
 ליל פורים
 
@@ -15,6 +17,7 @@ Taanis begins – 5:24 AM
 End of Taanis – 6:34 PM
 
 Second המגילה קריאת – 8:15 (KZY)
+
 
 יום פורים
 
