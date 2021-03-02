@@ -1,50 +1,20 @@
-פורים תשפ"א
+MESSAGE FROM THE BOARD
 
+Dear Members,
 
-תענית אסתר
+As we all know, a lot has happened over the past year. We went from our annual Yeshivas Mordechai Hatzadik last Purim straight into the Covid shutdown, then to our Tent Shul, and finally to our wonderful new Shul. This accomplishment was made possible through your commitment, dedication, and generosity. We are fortunate to be part of a community that recognizes and appreciates the importance of a true makom torah v’tefillah.
 
-Taanis begins – 5:24 AM
+Along with our community growth, our annual budget has increased to $95,000. This includes all shul operating expenses (mortgage, insurance, utilities, salary, cleaning, landscaping, etc.). We expect to raise approximately $77,000 this year from membership dues, bedek habayis, ner lamaor, and aliyos/kibbudim etc. This leaves us with an $18,000 deficit.
 
-5:15 – מנחה
+To cover the increased operating expenses, we will be increasing the annual membership fee as follows:
 
+2021: $800
+2022: $1,000
 
-ליל פורים
+We understand that some members might not be in a position to pay the increased amount.  As always, please reach out to Chesky Kranczer if this applies to you.
 
-6:25 – מעריב
+We want to extend a big thank you to all who signed the Kedushas Bais Haknesses poster. We will be using the program funds for the Phase II legal and architectural costs.
 
-קריאת המגילה 6:35
+As always, please feel free to reach out to any board member with any questions, concerns or ideas.
 
-End of Taanis – 6:34 PM
-
-Second המגילה קריאת – 8:15 (KZY)
-
-
-יום פורים
-
-7:00 – שחרית
-
-קריאת המגילה 7:35
-
-קריאת המגילה 9:10 -Second
-
-(Krasnow – 6 Bonnie Court)
-
-ישיבת מרדכי הצדיק
-
-8:30-9:30
-
-Kids Breakfast and Refreshments All Boys who learn for 30 minutes or more will receive a $10 gift card to Amazon or Toys 4 U
-Sponsored by the Heber Family
-
-The Rav will be available for visitors from 10:30-12:00 at his home 19 Rensselaer Drive
-
-12:40 – מנחה
-
-הדלקת נרות – 5:26
-
-מנחה וקבלת שבת – 5:31
-
-5:44 – שקיעה
-
-
-Matanos L'evyonin - The shul will be offering an opportunity to give Matanos L'evyonin to be distributed locally on Purim through the shul. Checks can be delivered to Chesky Kranczer or the Rov and should be made payable to Kehilas Zichron Yaakov. Payments can also be made via Zelle to kehilaszichronyaakov@gmail.com OR by following this link: https://pay.banquest.com/kzy/
+The Board of Directors
