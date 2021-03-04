@@ -232,6 +232,20 @@ const getSchedule = (m) => {
             label: "Daf Yomi",
             value: "8:15 PM",
         },
+        shabbosMishnaBreurahYomi: {
+            label: "Mishna Breurah",
+            value: moment(getZmanim(m).SeaLevelSunset)
+                .subtract(35, "minutes")
+                .subtract(25, "minutes"),
+        },
+        sundayMishnaBreurahYomi: {
+            label: "Mishna Breurah",
+            value: "7:35 AM",
+        },
+        mishnaBreurahYomi: {
+            label: "Mishna Breurah",
+            value: "6:35 AM",
+        },
         shabbosAvosUbanim: {
             label: "Avos Ubanim",
             value: "7:10 PM",
@@ -265,6 +279,7 @@ const getSchedule = (m) => {
     switch (m.weekday()) {
         case 0: // sunday
             schedule = [
+                EVENTS.sundayMishnaBreurahYomi,
                 EVENTS.sundayShacharis,
                 EVENTS.yorucha,
                 EVENTS.minchaMariv,
@@ -275,6 +290,7 @@ const getSchedule = (m) => {
         case 3: // wed
             schedule = [
                 EVENTS.oraissa,
+                EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
                 EVENTS.mariv,
@@ -284,6 +300,7 @@ const getSchedule = (m) => {
         case 4: // thu
             schedule = [
                 EVENTS.oraissa,
+                EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
                 EVENTS.mariv,
@@ -293,6 +310,7 @@ const getSchedule = (m) => {
             break;
         case 5: // friday
             schedule = [
+                EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
                 EVENTS.candleLighting,
@@ -303,6 +321,8 @@ const getSchedule = (m) => {
             break;
         case 6: // shabbos
             schedule = [
+                EVENTS.shabbosMishnaBreurahYomi,
+                EVENTS.rambanShiur,
                 EVENTS.shabbosShacharis,
                 EVENTS.shabbosEarlyMincha,
                 EVENTS.tehillim,
@@ -311,7 +331,7 @@ const getSchedule = (m) => {
                 EVENTS.shabbosMincha,
                 EVENTS.shabbosMariv,
                 // EVENTS.shabbosHavdala,
-                EVENTS.shabbosAvosUbanim,
+                // EVENTS.shabbosAvosUbanim,
             ];
             break;
 
