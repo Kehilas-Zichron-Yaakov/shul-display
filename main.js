@@ -310,6 +310,7 @@ const getSchedule = (m) => {
             break;
         case 5: // friday
             schedule = [
+                EVENTS.oraissa,
                 EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
