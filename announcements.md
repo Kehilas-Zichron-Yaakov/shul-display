@@ -1,20 +1,26 @@
-MESSAGE FROM THE BOARD
+WELCOME to Moishe and Leeba Hershkowitz who moved into 5 Flint.
 
-Dear Members,
+Ner L'Maor - Chodesh Adar is sponsored anonymously: לכבוד רּ שמעון וכל חברי אורייתא שמקימים זריזין מקדימים למצות כמו שכתוב וישכם אברהם בבקר (פסחים ד) שנזכה כלנו ליהודים היתה אורה ושמחה ולכל משאלות לבבכם
 
-As we all know, a lot has happened over the past year. We went from our annual Yeshivas Mordechai Hatzadik last Purim straight into the Covid shutdown, then to our Tent Shul, and finally to our wonderful new Shul. This accomplishment was made possible through your commitment, dedication, and generosity. We are fortunate to be part of a community that recognizes and appreciates the importance of a true makom torah v’tefillah.
+Bedek HaBayis - Chodesh Adar is sponsored by: משפחת ראבינסאן
+לע״נ יצחק יוסף בן אליעזר ניסן אהרון בן אברהם רפאל נחום לייב בן יעקב מרדכי
 
-Along with our community growth, our annual budget has increased to $95,000. This includes all shul operating expenses (mortgage, insurance, utilities, salary, cleaning, landscaping, etc.). We expect to raise approximately $77,000 this year from membership dues, bedek habayis, ner lamaor, and aliyos/kibbudim etc. This leaves us with an $18,000 deficit.
+Likras Shabbos, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-To cover the increased operating expenses, we will be increasing the annual membership fee as follows:
+Ramban Shiur Shabbos morning is given by the Rav at 8:20am
 
-2021: $800
-2022: $1,000
+Yorucha program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Please speak to Yossi Royde regarding future sponsorships ($25)
 
-We understand that some members might not be in a position to pay the increased amount.  As always, please reach out to Chesky Kranczer if this applies to you.
+Women’s Tehilim is by Krasnow, 6 Bonnie Ct., at 2:30pm
 
-We want to extend a big thank you to all who signed the Kedushas Bais Haknesses poster. We will be using the program funds for the Phase II legal and architectural costs.
+Yarzeit Board - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
 
-As always, please feel free to reach out to any board member with any questions, concerns or ideas.
+Shul Parking - As many of you are aware the parking in front of the shul and on Durante Ct has become untenable. This letter was delivered today and frankly was expected. This not only puts phase II in great jeopardy but puts our existing shul in great danger of being shut down. We all understand that parking is essential but we would like to put the following in place effective immediately. This will stay in place at least for the immediate future until a more comprehensive plan is put in place:
 
-The Board of Directors
+• NO PARKING ON DURANTE CT 
+
+• those that live in close proximity to Durante should make every effort to walk 
+
+• if parking is necessary, it should be on one side of Landau Ln in front of 21, 23 & 25 leaving ample space for homeowners to get into their driveways 
+
+• try carpooling to Shul
