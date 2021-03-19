@@ -1,5 +1,7 @@
 **Mechiras Chometz** - The Rav will be taking care of Mechiras Chometz in the shul after all minyanim beginning Sunday after Shacharis. If you can't make it at these times, please call the Rav at 845-659-8244. There will be copies on the bima.
 
+**Chometz in shul** -On Sunday March 21st, the shul will be cleaned for Pesach (after the Yorucha shiur). There will be no Chometz allowed in the shul after that. There will still be coffee and milk available throughout the week. We remind everyone to please check and clean out your shtenders.
+
 **Shabbos Hagadol Drasha** - The Rav will be giving the Shabbos Hagadol Drasha after the second mincha until Maariv.  Everyone is reminded to eat Shalosh Seudas before coming to the Drasha
 
 **Women’s Shabbos Hagadol Drasha** - The Rav will be giving the shiur for women in the Shul at 2:30pm, followed by Tehillim 
