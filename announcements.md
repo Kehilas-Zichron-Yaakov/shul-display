@@ -1,15 +1,18 @@
-**Mazal Tov** to the Shwekey Family on the Bar Mitzvah of their son-Doniel. Kiddush in shul following Davening
+**Mechiras Chometz** - The Rav will be taking care of Mechiras Chometz in the shul after all minyanim beginning Sunday after Shacharis. If you can't make it at these times, please call the Rav at 845-659-8244. There will be copies on the bima.
 
-**Ner L'Maor** - Chodesh Adar is sponsored anonymously: לכבוד רּ שמעון וכל חברי אורייתא שמקימים זריזין מקדימים למצות כמו שכתוב וישכם אברהם בבקר (פסחים ד) שנזכה כלנו ליהודים היתה אורה ושמחה ולכל משאלות לבבכם
+**Shabbos Hagadol Drasha** - The Rav will be giving the Shabbos Hagadol Drasha after the second mincha until Maariv.  Everyone is reminded to eat Shalosh Seudas before coming to the Drasha
 
-**Bedek HaBayis** - Chodesh Adar is sponsored by: משפחת ראבינסאן
-לע״נ יצחק יוסף בן אליעזר ניסן אהרון בן אברהם רפאל נחום לייב בן יעקב מרדכי
+**Women’s Shabbos Hagadol Drasha** - The Rav will be giving the shiur for women in the Shul at 2:30pm, followed by Tehillim 
+
+**Ner L'Maor** - בּדק הבּית לחודשׁ ניסן is sponsored by: Kranczer family   
+לע״ן אברהם משׁה בּן שׁרגא פאטיל הכּהן
+
+**Bedek HaBayis** -   נר למאור לחודשׁ ניסן is sponsored by: Knopf family 
+לע״ן לאה בּת ר׳ אברהם אריה
 
 **Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Please speak to Yossi Royde regarding future sponsorships ($25)
-
-**Women’s Tehilim** is by Krasnow, 6 Bonnie Ct., at 2:30pm
+**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha this week is sponsored by the Kranczer Family, in honor of the yarzeit of Chana Leah bas Simcha Leib. Please speak to Yossi Royde regarding future sponsorships ($25)
 
 **Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
 
