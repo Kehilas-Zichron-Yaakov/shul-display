@@ -183,8 +183,8 @@ const getSchedule = (m) => {
             value: "8:15 PM",
         },
         parshaShiur: {
-            label: "Parsha Shiur",
-            value: "8:30 - 9:00 PM",
+            label: "Rov's Parsha Shiur",
+            value: "Following Mariv",
         },
         shabbosShacharis: {
             label: "Shacharis",
@@ -293,7 +293,7 @@ const getSchedule = (m) => {
                 EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
-                EVENTS.mariv,
+                EVENTS.minchaMariv,
                 EVENTS.dafEvening,
             ];
             break;
@@ -303,7 +303,7 @@ const getSchedule = (m) => {
                 EVENTS.mishnaBreurahYomi,
                 EVENTS.shacharis,
                 EVENTS.dafMorning,
-                EVENTS.mariv,
+                EVENTS.minchaMariv,
                 EVENTS.parshaShiur,
                 EVENTS.dafEvening,
             ];
@@ -464,3 +464,4 @@ fetch(window.location.href + "announcements.md")
         (converter = new showdown.Converter()), (html = converter.makeHtml(r));
         document.querySelector(".announcements").innerHTML = html;
     });
+const something = (val) => val++;
