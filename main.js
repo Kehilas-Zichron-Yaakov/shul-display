@@ -160,7 +160,7 @@ const getSchedule = (m) => {
         },
         minchaMariv: {
             label: "Mincha/Mariv",
-            value: moment(getZmanim(m).Sunset).subtract(12, "minutes"),
+            value: moment(getZmanim(m).SeaLevelSunset).subtract(12, "minutes"),
         },
         oraissa: {
             label: "Oraissa",
