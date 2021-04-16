@@ -1,21 +1,25 @@
-**Mazel Tov** to the Adler family on the birth of a baby boy. Shalom Zachor is by his in laws, 5 Langries Drive
+**Mazel Tov!** to Benyamin & Sushi Steinman on the birth of a baby boy! 
 
-**Mazel Tov** to the Whitehouse family would like to invite everyone to a Kiddush Shabbos morning in Shul, in honor of the birth of their new baby daughter, Yocheved.
+**Mazel Tov!** to Tazli & Shana Gold on the birth of a baby girl!
 
-**Mazel Tov** to the Levi family in honor of Chaim who is putting on his Tefillin for the first time, on Sunday morning in Shul.
+**Welcome!** to Rami and Esther Rachamimov who will be moving into the  neighborhood next week! 
 
-Rosh Chodesh Iyar is Monday, Tuesday
+**Tehillim** this Shabbos will be at Tzippy Smith’s home at 8 Carriage Lane at 4:00 PM  (not 4:30- please note that change). Please only attend if everyone in your home is  feeling more than up to par. 
 
-**Bedek HaBayis** - בּדק הבּית לחודשׁ ניסן is sponsored by: Kranczer family
-לע״ן אברהם משׁה בּן שׁרגא פאטיל הכּהן
+**Bedek HaBayis** - בּדק הבית לחודש אייר has been co-sponsored by the  Gongola family in honor of  my parents and by the Sobol  family in loving memory of  Lemel Pesach ben Moshe
 
-**Ner L'Maor** -   נר למאור לחודשׁ ניסן is sponsored by: Knopf family
-לע״ן לאה בּת ר׳ אברהם אריה
+**Ner L'Maor** -   נר למאור לחודש אייר is sponsored by: Richmond family
+
+לעילוי נשמת ר' יצחק מאיר בן ר'  יחזקאל דוד 
+
+נפטר כ"ח אייר תשס"ט
 
 **Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha this week is sponsored by the Levi Family, in Honor of Chaim’s Hanachas Tefillin. Please speak to Yossi Royde regarding future sponsorships ($25).
+**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Please speak to Yossi Royde regarding future sponsorships ($25).
 
 **Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
 
 **New summer weekday Mincha-Maariv schedule** - Going forward, Mincha will be 12 minutes before Shkia followed by Maarive at Shkia, Sunday through Thursday.
+
+**Apartment for rent** The apartment above the shul will be available as of June 1st. If you know of anyone looking for a nice, well-maintained 3 bedroom apartment,  please contact Shaya Schiffman or Pinchas Nussbaum. 
