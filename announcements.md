@@ -1,4 +1,4 @@
-**Tehillim** this Shabbos will be 4:00pm at the Roydes, 18 Bonnie Ct
+**Tehillim** this Shabbos will be 4:00pm at the Kranczer, 25 Landau Lane 
 
 **Bedek HaBayis** - בּדק הבית לחודש אייר has been co-sponsored by the  Gongola family in honor of  my parents and by the Sobol  family in loving memory of  Lemel Pesach ben Moshe
 
@@ -10,7 +10,7 @@
 
 **Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. This past week was sponsored last week by the Kapnik family. Please speak to Yossi Royde regarding future sponsorships ($25).
+**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Please speak to Yossi Royde regarding future sponsorships ($25).
 
 **Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
 
