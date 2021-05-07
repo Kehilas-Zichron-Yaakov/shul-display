@@ -1,9 +1,9 @@
-**A New Hempstead קהילות איחוד event is 
+**A New Hempstead איחוד קהילות  event is 
 planned for Thursday May 13, at Zanger Hall, 
 4 Parker Blvd, Monsey NY.
 All New Hempstead Rabbonim will relay a 5 
-minute חיזוק message on the Topic of אחד כאיש 
-אחד בלב .There will be food and music and time 
+minute חיזוק message on the Topic of  כאיש 
+אחד בלב אחד. There will be food and music and time 
 to meet the neighbors in your village. 
 We Hope to see you**
 
