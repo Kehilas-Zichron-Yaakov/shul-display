@@ -5,7 +5,7 @@ All New Hempstead Rabbonim will relay a 5
 minute חיזוק message on the Topic of  כאיש 
 אחד בלב אחד. There will be food and music and time 
 to meet the neighbors in your village. 
-We Hope to see you**
+We Hope to see you!**
 
 **Tehillim** this Shabbos will be 4:00pm at Russak, 19 Rensselaer
 
