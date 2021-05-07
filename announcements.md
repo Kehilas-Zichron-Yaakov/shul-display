@@ -1,3 +1,5 @@
+Announcements for Parshas Behar-Bechukosai, Shabbos Mevarchim Chodesh Sivan
+
 This week the Kiddish is co-sponsored by the Staum family in honor of R Staum’s siyum on 
 ששה סדרי משנה and by Yitzy and Esty Robinson 
 לזרע של קיימא ,חיה פייגא בת שיינדל ביילא ,קלונומוס בן רבקה
