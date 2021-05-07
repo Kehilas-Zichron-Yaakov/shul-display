@@ -1,3 +1,7 @@
+This week the Kiddish is co-sponsored by the Staum family in honor of R Staum’s siyum on 
+ששה סדרי משנה and by Yitzy and Esty Robinson 
+לזרע של קיימא ,חיה פייגא בת שיינדל ביילא ,קלונומוס בן רבקה
+
 **A New Hempstead איחוד קהילות  event is 
 planned for Thursday May 13, at Zanger Hall, 
 4 Parker Blvd, Monsey NY.
