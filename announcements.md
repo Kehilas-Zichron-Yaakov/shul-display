@@ -1,19 +1,6 @@
-**Announcements for Parshas Behar-Bechukosai, Shabbos Mevarchim Chodesh Sivan**
+**Announcements for Parshas Bamidbar**
 
-This week the Kiddish is co-sponsored by the Staum family in honor of R Staum’s siyum on 
-ששה סדרי משנה and by Yitzy and Esty Robinson 
-לזרע של קיימא ,חיה פייגא בת שיינדל ביילא ,קלונומוס בן רבקה
-
-**A New Hempstead איחוד קהילות  event is 
-planned for Thursday May 13, at Zanger Hall, 
-4 Parker Blvd, Monsey NY.
-All New Hempstead Rabbonim will relay a 5 
-minute חיזוק message on the Topic of  כאיש 
-אחד בלב אחד. There will be food and music and time 
-to meet the neighbors in your village. 
-We Hope to see you!**
-
-**Tehillim** this Shabbos will be 4:00pm at Russak, 19 Rensselaer
+**Tehillim** this Shabbos will be 4:00pm at Krasnow, 6 Bonnie
 
 **Bedek HaBayis** - בּדק הבית לחודש אייר has been co-sponsored by the  Gongola family in honor of  my parents and by the Sobol  family in loving memory of  Lemel Pesach ben Moshe
 
