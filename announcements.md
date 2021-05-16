@@ -2,7 +2,21 @@
 
 **Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
 
-**Shavous Night Learning** The Following families are involved in sponsoring the food for the learning on
+**Shavous Night Learning** 
+
+12:45 - The Depth of Music In The Torah Moshe Sobol
+
+1:30- Does That Really Need a Hechsher? Dudi Frenkel
+
+2:15- Following the Evidence of Sinai Yitzy Robinson
+
+2:45 Jew vs. Jesus Yaakov Gluck
+
+3:30 Olam Haba, and Why People are Dying to Get In Yossi Royde
+
+4:15 Some Stories Put You to Sleep, Some Wake You Up- Hillel Kapnick
+
+The Following families are involved in sponsoring the food for the learning on
 Shavous night as well as the kiddush on the 2nd day of Shavous:
 
 *Huerta*-To the safety and unity of Jews in Israel who are under the gun and Jews
