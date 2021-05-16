@@ -1,21 +1,35 @@
-**Announcements for Parshas Bamidbar**
+**Announcements for Shavous 5781**
 
-**Tehillim** this Shabbos will be 4:00pm at Krasnow, 6 Bonnie
+**Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
 
-**Bedek HaBayis** - בּדק הבית לחודש אייר has been co-sponsored by the  Gongola family in honor of  my parents and by the Sobol  family in loving memory of  Lemel Pesach ben Moshe
+**Bedek HaBayis** - בּדק הבית לחודש סיון
 
-**Ner L'Maor** -   נר למאור לחודש אייר is sponsored by: Richmond family
+לע״ן שרה בּת ציון בת ר׳ משה
+שמואל נפטרה יג׳ סיון תשׁס״ו
 
-לעילוי נשמת ר' יצחק מאיר בן ר'  יחזקאל דוד 
+לע״ן ר׳ שמחה בּ״ר יצחק הכּהן
+ז״ל
 
-נפטר כ"ח אייר תשס"ט
+לע״ן ר׳ י עקב נפתלי בּן דוד
+לע״ן ר׳ אברהם בּן פּתחיה
+הירשׁ
+
+לע״ן פייגא בּת ר׳ ישראל
+
+**Ner L'Maor** -   נר למאור לחודש סיון is sponsored by: Smith family
+
+לע״ן ר׳ חיים יוסף לייבּ בּן ר׳
+שׁאול יצחק
+
+נדבת משפחת סמיט
 
 **Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
 
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha is sponsored this week by the Kranczer family. Please speak to Yossi Royde regarding future sponsorships ($25).
+**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha is sponsored this week by the Schiffman family 
+
+לע''נ ר 'שמחה ב''ר יצחק הכהן ז''ל
+
+מרת צבי‘ בת ר 'יעקב ז''ל and ר 'יחיאל ב''ר שלום מרדכי ז''ל
+. Please speak to Yossi Royde regarding future sponsorships ($25).
 
 **Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
-
-**New summer weekday Mincha-Maariv schedule** - Going forward, Mincha will be 12 minutes before Shkia followed by Maarive at Shkia, Sunday through Thursday.
-
-**Apartment for rent - The apartment above the shul will be available as of June 1st. If you know of anyone looking for a nice, well-maintained 3 bedroom apartment, please contact Shaya Schiffman or Pinchas Nussbaum.** 
