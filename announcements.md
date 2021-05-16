@@ -1,5 +1,3 @@
-**Announcements for Shavous 5781**
-
 **Mazel Tov** to Rami and Esther Rachamimov on the birth of a baby girl!
 
 **Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
@@ -21,7 +19,7 @@
 The Following families are involved in sponsoring the food for the learning on
 Shavous night as well as the kiddush on the 2nd day of Shavous:
 
-*Huerta*-To the safety and unity of Jews in Israel who are under the gun and Jews
+*Huerta*-To the safety and unity of Jews in who are under the gun and Jews
 everywhere. May our learning of Torah this Shavuoth and going forward unite us
 and help bring the Mashiach.
 
@@ -33,7 +31,6 @@ and help bring the Mashiach.
 *Heber*-Lzecher Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
 
 *Nussbaum* - לעילוי נשמת יעקב אברהם בן גדליהו יהודה הכהן
-
 
 **Bedek Habayis** - בּדק הבית לחודש סיון
 
