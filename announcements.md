@@ -4,6 +4,8 @@
 
 **Shavous Night Learning** 
 
+11:45 - 12:30 שיעור מאת הרב
+
 12:45 - The Depth of Music In The Torah Moshe Sobol
 
 1:30- Does That Really Need a Hechsher? Dudi Frenkel
