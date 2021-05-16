@@ -20,6 +20,7 @@ Heber-Lzecher Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
 
 Nussbaum - לעילוי נשמת יעקב אברהם בן גדליהו יהודה הכהן
 
+
 **Bedek Habayis** - בּדק הבית לחודש סיון
 
 לע״ן שרה בּת ציון בת ר׳ משה
@@ -39,9 +40,7 @@ Nussbaum - לעילוי נשמת יעקב אברהם בן גדליהו יהוד�
 לע״ן ר׳ חיים יוסף לייבּ בּן ר׳
 שׁאול יצחק
 
-נדבת משפחת סמיט
-
-**Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
+לזכות לרפואה שלימה נטע יצחק בן רחל
 
 **Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha is sponsored this week by the Schiffman family 
 
@@ -49,5 +48,3 @@ Nussbaum - לעילוי נשמת יעקב אברהם בן גדליהו יהוד�
 
 מרת צבי‘ בת ר 'יעקב ז''ל and ר 'יחיאל ב''ר שלום מרדכי ז''ל
 . Please speak to Yossi Royde regarding future sponsorships ($25).
-
-**Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
