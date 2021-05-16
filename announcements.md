@@ -25,9 +25,7 @@ Shavous night as well as the kiddush on the 2nd day of Shavous:
 everywhere. May our learning of Torah this Shavuoth and going forward unite us
 and help bring the Mashiach.
 
-*Kapnick* -
-
-לזכר נשמת הרב שלמה יעקב בן ר 'צבי הירש זײל, ומרת רחל בת ר 'יוסף זאב זײל וואלין , יעקב
+*Kapnick* - לזכר נשמת הרב שלמה יעקב בן ר 'צבי הירש זײל, ומרת רחל בת ר 'יוסף זאב זײל וואלין , יעקב
 יצחק בן זלמן זײל, ומרת שרה טויבא בת ר 'שמואל דן זײל גאנז
 
 *Anonymous* - לעילוי נשמת רחל בת שמואל דוד
@@ -57,10 +55,3 @@ and help bring the Mashiach.
 שׁאול יצחק
 
 לזכות לרפואה שלימה נטע יצחק בן רחל
-
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Yorucha is sponsored this week by the Schiffman family 
-
-לע''נ ר 'שמחה ב''ר יצחק הכהן ז''ל
-
-מרת צבי‘ בת ר 'יעקב ז''ל and ר 'יחיאל ב''ר שלום מרדכי ז''ל
-. Please speak to Yossi Royde regarding future sponsorships ($25).
