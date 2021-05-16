@@ -1,5 +1,7 @@
 **Announcements for Shavous 5781**
 
+**Mazel Tov** to Rami and Esther Rachamimov on the birth of a baby girl!
+
 **Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
 
 **Shavous Night Learning** 
