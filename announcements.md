@@ -2,7 +2,25 @@
 
 **Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
 
-**Bedek HaBayis** - בּדק הבית לחודש סיון
+**Shavous Night Learning** The Following families are involved in sponsoring the food for the learning on
+Shavous night as well as the kiddush on the 2nd day of Shavous:
+
+Huerta-To the safety and unity of Jews in Israel who are under the gun and Jews
+everywhere. May our learning of Torah this Shavuoth and going forward unite us
+and help bring the Mashiach.
+
+Kapnick -
+
+לזכר נשמת הרב שלמה יעקב בן ר 'צבי הירש זײל, ומרת רחל בת ר 'יוסף זאב זײל וואלין , יעקב
+יצחק בן זלמן זײל, ומרת שרה טויבא בת ר 'שמואל דן זײל גאנז
+
+Anonymous - לעילוי נשמת רחל בת שמואל דוד
+
+Heber-Lzecher Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
+
+Nussbaum - לעילוי נשמת יעקב אברהם בן גדליהו יהודה הכהן
+
+**Bedek Habayis** - בּדק הבית לחודש סיון
 
 לע״ן שרה בּת ציון בת ר׳ משה
 שמואל נפטרה יג׳ סיון תשׁס״ו
