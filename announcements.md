@@ -1,38 +1,15 @@
-**Mazel Tov** to Rami and Esther Rachamimov on the birth of a baby girl!
+**Women’s Tehilim** - 4:00pm at the Smith home
 
-**Flowers** Thank you to the Celnik family for sponsoring the Shul flowers for Yom Tov.
+**Yorucha** Sunday morning. 9:30 Breakfast, 9:45-10:30 shiur, Sponsored by the
+Huerta Family: May our learning unite us and strengthen our Ahavath Yisrael!
 
-**Shavous Night Learning** 
+**Pirchei** is at 4:00pm in the Shul, Led by the Rav.
+All ages welcome. (There is some interest in splitting into 2 age groups, if there are
+enough people that want to lead) 
 
-11:45 - 12:30 שיעור מאת הרב
-
-12:45 - The Depth of Music In The Torah Moshe Sobol
-
-1:30- Does That Really Need a Hechsher? Dudi Frenkel
-
-2:15- Following the Evidence of Sinai Yitzy Robinson
-
-2:45 Jew vs. Jesus Yaakov Gluck
-
-3:30 Olam Haba, and Why People are Dying to Get In Yossi Royde
-
-4:15 Some Stories Put You to Sleep, Some Wake You Up- Hillel Kapnick
-
-The Following families are involved in sponsoring the food for the learning on
-Shavous night as well as the kiddush on the 2nd day of Shavous:
-
-*Huerta*-To the safety and unity of Jews in who are under the gun and Jews
-everywhere. May our learning of Torah this Shavuoth and going forward unite us
-and help bring the Mashiach.
-
-*Kapnick* - לזכר נשמת הרב שלמה יעקב בן ר 'צבי הירש זײל, ומרת רחל בת ר 'יוסף זאב זײל וואלין , יעקב
-יצחק בן זלמן זײל, ומרת שרה טויבא בת ר 'שמואל דן זײל גאנז
-
-*Anonymous* - לעילוי נשמת רחל בת שמואל דוד
-
-*Heber*-Lzecher Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
-
-*Nussbaum* - לעילוי נשמת יעקב אברהם בן גדליהו יהודה הכהן
+**Bnos** is 3:45-4:45 hosted by the Heber Family, 6 Flint Dr.
+(The timing has been coordinated with Tehilim so mothers can drop their kids off
+and go up the block to Tehilim)
 
 **Bedek Habayis** - בּדק הבית לחודש סיון
 
