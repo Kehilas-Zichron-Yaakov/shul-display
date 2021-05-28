@@ -1,15 +1,22 @@
-**Women’s Tehilim** - 4:00pm at the Smith home
+**Farewell** The Kehila would like to wish farewell to Chesky and Zahava Roth who are moving
+out of the neighborhood this week, and Hatzlacha in their future endeavors.
 
-**Yorucha** Sunday morning. 9:30 Breakfast, 9:45-10:30 shiur, Sponsored by the
-Huerta Family: May our learning unite us and strengthen our Ahavath Yisrael!
+**Kiddush** this week is sponsored by Peri Weisz - נשמת לעילוי יעקב נפתלי בן דוד
 
-**Pirchei** is at 4:00pm in the Shul, Led by the Rav.
+**Siyum** Please join us for our siyum of Mesachtas Tamid this Sunday at 7:45 pm in shul on the yarzeit of יעקב נפתלי בן דוד. Food will be served after the siyum, followed by Mincha/Maariv. 
+*Pinchas Nussbaum and Yossi Royde*
+
+**Women’s Tehilim** - This Shabbos the Tehillim will be completed once again! The
+Siyum will be at Rebbetzen Russak’s home at 3:45
+
+**Pirchei** is at 3:45pm in the Shul, Led by R’ Yitzy Robinson.
 All ages welcome. (There is some interest in splitting into 2 age groups, if there are
 enough people that want to lead) 
 
-**Bnos** is 3:45-4:45 hosted by the Heber Family, 6 Flint Dr.
-(The timing has been coordinated with Tehilim so mothers can drop their kids off
-and go up the block to Tehilim)
+**Bnos** is 3:45-4:45 hosted by the Rebbetzen, 19 Rensselaer Dr
+
+**Yorucha** Sunday morning. 9:30 Breakfast, 9:45-10:30 shiur, sponsored this week
+by the Nussbaum Family for the yahtzeit of דוד בן נפתלי יעקב
 
 **Bedek Habayis** - בּדק הבית לחודש סיון
 
