@@ -13,7 +13,7 @@ Monday thru Friday, 6:40am
 
 **Bnos** is by Royde, 18 Bonnie Ct, at 4pm
 
-**Pirchei** is at 4pm in the Shul, Led by R’ Yitzy Robinson. All ages welcome. (There is some interest in splitting into 2 age groups, if there are enough people that want to lead)
+**Pirchei** is at 4pm in the Shul
 
 **Bedek Habayis** - בּדק הבית לחודש אלול
 
