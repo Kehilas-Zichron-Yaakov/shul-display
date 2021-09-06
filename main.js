@@ -37,8 +37,7 @@ const options = {
     elevation: 169, //  meters
     complexZmanim: true,
 };
-json = KosherZmanim.getZmanimJson(options);
-console.log(JSON.stringify(json, null, 2));
+// json = KosherZmanim.getZmanimJson(options);
 const round = (m) => {
     const DOW = m.day();
     if (DOW === 5) {
@@ -145,6 +144,7 @@ const renderZmanTable = () => {
 // document.body.innerHTML = renderZmanTable();
 
 const getSchedule = (m) => {
+    zmanim = getZmanim(m);
     const EVENTS = {
         sundayShacharis: {
             label: "Shacharis",
@@ -160,7 +160,7 @@ const getSchedule = (m) => {
         },
         minchaMariv: {
             label: "Mincha/Mariv",
-            value: moment(getZmanim(m).SeaLevelSunset).subtract(12, "minutes"),
+            value: moment(zmanim.SeaLevelSunset).subtract(12, "minutes"),
         },
         oraissa: {
             label: "Oraissa",
@@ -200,31 +200,31 @@ const getSchedule = (m) => {
         },
         shabbosOraissa: {
             label: "Oraissa",
-            value: moment(getZmanim(m).SeaLevelSunset)
+            value: moment(zmanim.SeaLevelSunset)
                 .subtract(35, "minutes")
                 .subtract(1, "hours"),
         },
         shabbosMincha: {
             label: "Mincha",
-            value: moment(getZmanim(m).SeaLevelSunset).subtract(35, "minutes"),
+            value: moment(zmanim.SeaLevelSunset).subtract(35, "minutes"),
         },
         likrasShabbos: {
             label: "Likras Shabbos",
-            value: moment(getZmanim(m).CandleLighting)
+            value: moment(zmanim.CandleLighting)
                 .add(5, "minutes")
                 .subtract(20, "minutes"),
         },
         shabbosMariv: {
             label: "Mariv Motzei Shabbos",
-            value: moment(getZmanim(m).SeaLevelSunset).add(50, "minutes"),
+            value: moment(zmanim.SeaLevelSunset).add(50, "minutes"),
         },
         shabbosHavdala: {
             label: "Havdalah",
-            value: moment(getZmanim(m).Tzais),
+            value: moment(zmanim.Tzais),
         },
         shabbosDayDaf: {
             label: "Daf Yomi",
-            value: moment(getZmanim(m).SeaLevelSunset)
+            value: moment(zmanim.SeaLevelSunset)
                 .subtract(35, "minutes")
                 .subtract(1, "hours"),
         },
@@ -234,7 +234,7 @@ const getSchedule = (m) => {
         },
         shabbosMishnaBreurahYomi: {
             label: "Mishna Breurah",
-            value: moment(getZmanim(m).SeaLevelSunset)
+            value: moment(zmanim.SeaLevelSunset)
                 .subtract(35, "minutes")
                 .subtract(25, "minutes"),
         },
@@ -267,11 +267,11 @@ const getSchedule = (m) => {
         },
         minchaErevShabbos: {
             label: "Mincha Erev Shabbos",
-            value: moment(getZmanim(m).CandleLighting).add(5, "minutes"),
+            value: moment(zmanim.CandleLighting).add(5, "minutes"),
         },
         candleLighting: {
             label: "Candle Lighting",
-            value: roundDown(moment(getZmanim(m).CandleLighting)),
+            value: roundDown(moment(zmanim.CandleLighting)),
         },
     };
     let schedule = [];
@@ -342,13 +342,13 @@ const getSchedule = (m) => {
 };
 const getNDaySchedule = (n) =>
     [...new Array(n)].reduce((prev, cur, i) => {
-        const formatString = "dddd -- M/D";
+        const formatString = "dddd - M/D";
         const today = moment();
         const dayN = moment().add(i, "day");
         const key = today.isSame(dayN, "day")
-            ? `Today (${dayN
+            ? `${dayN
                   .format(formatString)
-                  .replace("Saturday", "Shabbos")})`
+                  .replace("Saturday", L("Saturday"))} (Today)`
             : dayN.format(formatString).replace("Saturday", "Shabbos");
         prev[key] = getSchedule(dayN);
         return prev;
@@ -429,34 +429,40 @@ Object.keys(schedules).map((schedule) => {
     (elem) => (elem.innerHTML = getCurrentParsha())
 );
 
-const timeElements = [...document.querySelectorAll(".time")];
-setInterval(() =>
-    timeElements.map((elem) => (elem.innerHTML = moment().format("LTS")), 1000)
-);
-const hebrewDateElements = [...document.querySelectorAll(".hebrew-date")];
-hebrewDateElements.map(
-    (elem) =>
-        (elem.innerHTML = new KosherZmanim.JewishCalendar(moment().toDate()))
-);
-const englishDateElements = [...document.querySelectorAll(".english-date")];
-englishDateElements.map((elem) => (elem.innerHTML = moment().format("LL")));
+const wifiIsUp = () =>
+    console.log(`Wifi is ${navigator.onLine ? "UP" : "DOWN"}`) &&
+    navigator.onLine;
 
-if (!isMobile) setTimeout(() => window.location.reload(), 1000 * 60 * 60);
+if (!isMobile)
+    setTimeout(() => wifiIsUp() && window.location.reload(), 1000 * 60 * 60);
 
 const mapElements = (cssSelector, callback) =>
     [...document.querySelectorAll(cssSelector)].map(
-        (elem) => (elem.innerHTML = callback())
+        (elem) => (elem.innerHTML = callback(elem))
     );
 
-const pageLoad = moment();
-setInterval(
-    () =>
-        mapElements(
-            ".refresh-time",
-            () => "<small><i>Refreshed " + pageLoad.fromNow()
-        ) + "...</i></small>",
-    1000
-);
+const PAGE_LOAD_TIME = moment();
+setInterval(() => {
+    const now = moment();
+    const time = now.format("LTS");
+    const hebDate = new KosherZmanim.JewishCalendar(now.toDate());
+    const englishDate = now.format("LL");
+
+    // Refresh time
+    mapElements(
+        ".refresh-time",
+        () => "<small><i>Refreshed " + PAGE_LOAD_TIME.fromNow()
+    ) + "...</i></small>";
+
+    // Time
+    mapElements(".time", () => time);
+
+    // Hebrew Dates
+    mapElements(".hebrew-date", () => hebDate);
+
+    // English Dates
+    mapElements(".english-date", () => englishDate);
+}, 1000);
 
 fetch(window.location.href + "announcements.md")
     .then((r) => r.text())
@@ -464,4 +470,3 @@ fetch(window.location.href + "announcements.md")
         (converter = new showdown.Converter()), (html = converter.makeHtml(r));
         document.querySelector(".announcements").innerHTML = html;
     });
-const something = (val) => val++;
