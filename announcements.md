@@ -1,19 +1,32 @@
-**Chol Hamoed** - We are trying to have two Minyanim for shacharis on
-Chol Hamoed – one at 7:30 and one at 9:00. If you are interested in either of those,
-please speak to Pinchas Nussbaum so we can ensure we will have a minyan for
-each.
+**Welcome** to Chaim Tzvi and Gitty Vorschheimer who moved into 2 Bonnie
 
-**New summer weekday Mincha-Maariv schedule** - Going forward, Mincha will be
-12 minutes before Shkia followed by Maarive at Shkia, Sunday through Thursday.
+**Kiddush** this Shabbos is sponsored by the Freidman family, in honor of their baby daughter Amalia.
 
-**Bedek HaBayis** - בּדק הבּית לחודשׁ ניסן is sponsored by: Kranczer family
-לע״ן אברהם משׁה בּן שׁרגא פאטיל הכּהן
+**Women’s Tehilim** is by Russak, 19 Rensselaer Dr, at 4pm
 
-**Ner L'Maor** -   נר למאור לחודשׁ ניסן is sponsored by: Knopf family
-לע״ן לאה בּת ר׳ אברהם אריה
+Bedek Habayis - בּדק הבית לחודש אלול
+לע"נ שמואל פּנחס בּן יהודה אריה הלוי
+נדבת משפּחת העבּער
 
-**Likras Shabbos**, led by Rabbi Staum. Prizes and stories for all participants, לזכות לרפואה שלימה נטע יצחק בן רחל
+**Ner L'Maor** - נר למאור לחודש אלול
+לע״נ ר׳ אריה לייבּ בּ״ר יהודה צבי
+נפּטר ט׳ אלול תשׁ״פּ
+נדבת ע״י משפּחת ריטשׁמאנד
 
-**Yorucha** program dealing with Sugyos relating to practical business halacha takes place each Sunday morning. Please speak to Yossi Royde regarding future sponsorships ($25)
+**ROSH HASHANA:**
 
-**Yarzeit Board** - A yarzeit board has been sponsored for the shul. We will be selling individual plaques for $360. If you would like to sponsor a yarzeit plaque, please contact Pinchas Nussbaum.
+**Kiddush 1st day Yom Tov** is sponsored by the Weiner family in honor of Hashem
+
+**Kiddush 2nd day Yom** Tov is sponsored by the Huerta family. May this year of Shemitah bring our community closer to Yirat Shamayim which will lead us to true Ahavat Yisrael. 
+
+There are 5 generous sponsors for the tent:
+
+1) The **Vaksman** Family, in honor of their grandparents 
+
+2) The **Richmond** Family
+
+3) The **Krasnow** Family - לעלוי נשׁמת שׁמואל בּן משׁה ,הניא רבקה בּת שׁמואל ,יחיאל מיכול בּן מרדכי צבי
+
+4) The **Goldberg** Family, wishing everyone a sweet new year for the kehila and klal yisroel. 
+
+5) **Anonymous**, as a Zchus for my family, and the whole community should have a happy sweet new year
