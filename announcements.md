@@ -7,14 +7,21 @@ finishing Mesechas Shabbos.
 
 **Women’s Tehilim** is by Krasnow, 6 Bonnie Ct., at 4pm
 
-Bedek Habayis - בּדק הבית לחודש אלול
-לע"נ שמואל פּנחס בּן יהודה אריה הלוי
-נדבת משפּחת העבּער
+בדק הבית** לחודש תשרי** 
+has been sponsored by 
+the Richmond family 
+ 'לע"נ פשה גיטל בת ר
+יחזקאל נפטרה כ"ד תשרי
+תשע"ד 
 
-**Ner L'Maor** - נר למאור לחודש אלול
-לע״נ ר׳ אריה לייבּ בּ״ר יהודה צבי
-נפּטר ט׳ אלול תשׁ״פּ
-נדבת ע״י משפּחת ריטשׁמאנד
+נר למאור 
+לחודש תשרי 
+has been co-sponsored by the Russak  family  
+לזכות שנה טובה לכל קהלת
+יעקב זכרון and by the Nussbaum family
+לע"נ  
+יעטא בת החבר ר‘ יצחק
+גדליה
 
 There are 5 generous sponsors for the tent:
 
