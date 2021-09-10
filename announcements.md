@@ -1,8 +1,11 @@
-**Welcome** to Chaim Tzvi and Gitty Vorschheimer who moved into 2 Bonnie
+**Shabbos Shuva Drasha after Mincha on Shabbos**
 
-**Kiddush** this Shabbos is sponsored by the Freidman family, in honor of their baby daughter Amalia.
+**Mazel tov** to Meor Goldberg on the occasion of putting on Tefillin
 
-**Women’s Tehilim** is by Russak, 19 Rensselaer Dr, at 4pm
+**Kiddush** this Shabbos is sponsored by the Oraysa Chabura in honor of them 
+finishing Mesechas Shabbos. 
+
+**Women’s Tehilim** is by Krasnow, 6 Bonnie Ct., at 4pm
 
 Bedek Habayis - בּדק הבית לחודש אלול
 לע"נ שמואל פּנחס בּן יהודה אריה הלוי
@@ -12,12 +15,6 @@ Bedek Habayis - בּדק הבית לחודש אלול
 לע״נ ר׳ אריה לייבּ בּ״ר יהודה צבי
 נפּטר ט׳ אלול תשׁ״פּ
 נדבת ע״י משפּחת ריטשׁמאנד
-
-**ROSH HASHANA:**
-
-**Kiddush 1st day Yom Tov** is sponsored by the Weiner family in honor of Hashem
-
-**Kiddush 2nd day Yom** Tov is sponsored by the Huerta family. May this year of Shemitah bring our community closer to Yirat Shamayim which will lead us to true Ahavat Yisrael. 
 
 There are 5 generous sponsors for the tent:
 
