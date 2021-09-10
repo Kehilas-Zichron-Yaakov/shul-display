@@ -14,7 +14,7 @@ the Richmond family
 יחזקאל נפטרה כ"ד תשרי
 תשע"ד 
 
-נר למאור 
+**נר למאור**
 לחודש תשרי 
 has been co-sponsored by the Russak  family  
 לזכות שנה טובה לכל קהלת
