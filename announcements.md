@@ -1,11 +1,25 @@
-**Shabbos Shuva Drasha after Mincha on Shabbos**
+**Parshas Bereishis**
 
-**Mazel tov** to Meor Goldberg on the occasion of putting on Tefillin
+Shabbos Mevorchin Hachodesh Cheshvan. Molad is Wednesday, at 12:11pm and 
+12 Chalakim, Rosh Chodesh is Wednesday/Thursday
 
-**Kiddush** this Shabbos is sponsored by the Oraysa Chabura in honor of them 
-finishing Mesechas Shabbos. 
+The Board would like to thank everyone who donated and helped over the last few 
+weeks, with sponsorships, setting up and taking part in the shul events. 
 
-**Women’s Tehilim** is by Krasnow, 6 Bonnie Ct., at 4pm
+The **Simchas Torah night kiddush** was sponsored by the Heber family in honor of 
+the KZY community.
+
+The **Simchas Torah day kiddush** was sponsored by the Kranczer family
+
+**Bnos and Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
+to do so. 
+
+**Mazel Tov** to the Rav for Chosson Torah and to Chezky Kranczer for Chosson 
+Bereishis. 
+
+**Shabbos Shuva Drasha after Mincha on Shabbos** 
+
+**Women’s Tehilim** is by Royde, 18 Bonnie Ct., at 4pm
 
 בדק הבית** לחודש תשרי** 
 has been sponsored by 
@@ -23,14 +37,5 @@ has been co-sponsored by the Russak  family
 יעטא בת החבר ר‘ יצחק
 גדליה
 
-There are 5 generous sponsors for the tent:
 
-1) The **Vaksman** Family, in honor of their grandparents 
-
-2) The **Richmond** Family
-
-3) The **Krasnow** Family - לעלוי נשׁמת שׁמואל בּן משׁה ,הניא רבקה בּת שׁמואל ,יחיאל מיכול בּן מרדכי צבי
-
-4) The **Goldberg** Family, wishing everyone a sweet new year for the kehila and klal yisroel. 
-
-5) **Anonymous**, as a Zchus for my family, and the whole community should have a happy sweet new year
+Maariv M-T during the winter will be at 8:15pm
