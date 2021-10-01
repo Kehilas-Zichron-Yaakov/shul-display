@@ -17,8 +17,6 @@ to do so.
 **Mazel Tov** to the Rav for Chosson Torah and to Chezky Kranczer for Chosson 
 Bereishis. 
 
-**Shabbos Shuva Drasha after Mincha on Shabbos** 
-
 **Women’s Tehilim** is by Royde, 18 Bonnie Ct., at 4pm
 
 בדק הבית** לחודש תשרי** 
@@ -37,5 +35,8 @@ has been co-sponsored by the Russak  family
 יעטא בת החבר ר‘ יצחק
 גדליה
 
+Coffee for Tishrei
+is sponsored LZ”N Yaakov 
+Naftali Ben Dovid
 
 Maariv M-T during the winter will be at 8:15pm
