@@ -1,6 +1,7 @@
 **Parshas Bereishis**
 
-Shabbos Mevorchin Hachodesh Cheshvan. Molad is Wednesday, at 12:11pm and 
+**Shabbos Mevorchin Hachodesh Cheshvan**
+ Molad is Wednesday, at 12:11pm and 
 12 Chalakim, Rosh Chodesh is Wednesday/Thursday
 
 The Board would like to thank everyone who donated and helped over the last few 
@@ -14,12 +15,12 @@ The **Simchas Torah day kiddush** was sponsored by the Kranczer family
 **Bnos and Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
 to do so. 
 
-**Mazel Tov** to the Rav for Chosson Torah and to Chezky Kranczer for Chosson 
+**Mazel Tov** to the Rav for Chosson Torah and to Chesky Kranczer for Chosson 
 Bereishis. 
 
 **Women’s Tehilim** is by Royde, 18 Bonnie Ct., at 4pm
 
-בדק הבית** לחודש תשרי** 
+בדק הבית** לחודש תשרי**
 has been sponsored by 
 the Richmond family 
  'לע"נ פשה גיטל בת ר
