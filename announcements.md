@@ -1,22 +1,11 @@
-**Parshas Bereishis**
+**Parshas Noach**
 
-**Shabbos Mevorchin Hachodesh Cheshvan**
- Molad is Wednesday, at 12:11pm and 
-12 Chalakim, Rosh Chodesh is Wednesday/Thursday
+**Mazel tov** to the Goldberg family for Maor’s Bar Mitzvah.
 
-The Board would like to thank everyone who donated and helped over the last few 
-weeks, with sponsorships, setting up and taking part in the shul events. 
-
-The **Simchas Torah night kiddush** was sponsored by the Heber family in honor of 
-the KZY community.
-
-The **Simchas Torah day kiddush** was sponsored by the Kranczer family
+**Mazel tov** to the Pollack family on the birth of a grandson
 
 **Bnos and Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
 to do so. 
-
-**Mazel Tov** to the Rav for Chosson Torah and to Chesky Kranczer for Chosson 
-Bereishis. 
 
 **Women’s Tehilim** is by Royde, 18 Bonnie Ct., at 4pm
 
