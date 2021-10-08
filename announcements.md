@@ -7,26 +7,24 @@
 **Bnos and Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
 to do so. 
 
-**Women’s Tehilim** is by Royde, 18 Bonnie Ct., at 4pm
+**Women’s Tehilim** is at 4pm
 
-בדק הבית** לחודש תשרי**
-has been sponsored by 
-the Richmond family 
- 'לע"נ פשה גיטל בת ר
-יחזקאל נפטרה כ"ד תשרי
-תשע"ד 
+**בדק הבית לחודש חשׁון**
+has been sponsored by the Richmond family
+ לע״ן
+סימא פּארל בּת ר׳ אריה לייבּ
+נפטרה י׳׳בּ מרחשׁון תשׁע״בּ
 
-**נר למאור**
-לחודש תשרי 
-has been co-sponsored by the Russak  family  
-לזכות שנה טובה לכל קהלת
-יעקב זכרון and by the Nussbaum family
-לע"נ  
-יעטא בת החבר ר‘ יצחק
-גדליה
+**נר למאור לחודשׁ חשׁון** 
+has been sponsored לע״ן 
+החבר צבי בּן החבר אהרן מאיר
+Mr Henry Lowenthal
+and
+לע״ן מרת רייזל בּת ר׳ בּנימין
+נדבת ע״י משפּחת שׂטיין
 
-Coffee for Tishrei
-is sponsored LZ”N Yaakov 
-Naftali Ben Dovid
+**Coffee for Cheshvan** has been sponsored by the Richmond family, in memory of
+ סימא פּארל בּת ר׳ אריה לייבּ
+נפטרה י׳׳בּ מרחשׁון תשׁע״בּ
 
 Maariv M-T during the winter will be at 8:15pm
