@@ -1,13 +1,14 @@
-**Parshas Noach**
+**Parshas Lech Lecha**
 
-**Mazel tov** to the Goldberg family for Maor’s Bar Mitzvah.
+**Kiddush** this week is sponsored by the Chosson Torah-The Rav, and Chosson 
+Bereishis-Chesky Kranczer.
 
-**Mazel tov** to the Pollack family on the birth of a grandson
+**Bnos** is by Pick, 2 Landau Lane at 3:30pm
 
-**Bnos and Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
+**Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
 to do so. 
 
-**Women’s Tehilim** is at 4pm
+**Women’s Tehilim** is by Kranczer, 25 Landau, at 3:30pm
 
 **בדק הבית לחודש חשׁון**
 has been sponsored by the Richmond family
