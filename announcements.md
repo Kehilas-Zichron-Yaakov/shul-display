@@ -1,15 +1,11 @@
-**Parshas Lech Lecha**
+**Parshas Vayera**
 
-**Kiddush** this week is sponsored by the Chosson Torah-The Rav, and Chosson 
-Bereishis-Chesky Kranczer.
-
-**Bnos** is by Pick, 2 Landau Lane at 3:30pm
+**Bnos**  will be by Levi, 10 Sunny Ridge at 3:30-4:30
 
 **Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
 to do so. 
 
-**Women’s Tehilim** is by Kranczer, 25 Landau, at 3:30pm
-
+**Women’s Tehilim** will be by Areman, 26 Sunny Ridge at 3:45.
 **בדק הבית לחודש חשׁון**
 has been sponsored by the Richmond family
  לע״ן
