@@ -6,6 +6,7 @@
 to do so. 
 
 **Women’s Tehilim** will be by Areman, 26 Sunny Ridge at 3:45.
+
 **בדק הבית לחודש חשׁון**
 has been sponsored by the Richmond family
  לע״ן
