@@ -1,32 +1,28 @@
-**Welcome** to Chaim Tzvi and Gitty Vorschheimer who moved into 2 Bonnie
+**Parshas Vayera**
 
-**Kiddush** this Shabbos is sponsored by the Freidman family, in honor of their baby daughter Amalia.
+**Bnos**  will be by Levi, 10 Sunny Ridge at 3:30-4:30
 
-**Women’s Tehilim** is by Russak, 19 Rensselaer Dr, at 4pm
+**Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
+to do so. 
 
-Bedek Habayis - בּדק הבית לחודש אלול
-לע"נ שמואל פּנחס בּן יהודה אריה הלוי
-נדבת משפּחת העבּער
+**Women’s Tehilim** will be by Areman, 26 Sunny Ridge at 3:45.
 
-**Ner L'Maor** - נר למאור לחודש אלול
-לע״נ ר׳ אריה לייבּ בּ״ר יהודה צבי
-נפּטר ט׳ אלול תשׁ״פּ
-נדבת ע״י משפּחת ריטשׁמאנד
+**בדק הבית לחודש חשׁון**
+has been sponsored by the Richmond family
+ לע״ן
+סימא פּארל בּת ר׳ אריה לייבּ
+נפטרה י׳׳בּ מרחשׁון תשׁע״בּ
 
-**ROSH HASHANA:**
+**נר למאור לחודשׁ חשׁון** 
+has been sponsored לע״ן 
+החבר צבי בּן החבר אהרן מאיר
+Mr Henry Lowenthal
+and
+לע״ן מרת רייזל בּת ר׳ בּנימין
+נדבת ע״י משפּחת שׂטיין
 
-**Kiddush 1st day Yom Tov** is sponsored by the Weiner family in honor of Hashem
+**Coffee for Cheshvan** has been sponsored by the Richmond family, in memory of
+ סימא פּארל בּת ר׳ אריה לייבּ
+נפטרה י׳׳בּ מרחשׁון תשׁע״בּ
 
-**Kiddush 2nd day Yom** Tov is sponsored by the Huerta family. May this year of Shemitah bring our community closer to Yirat Shamayim which will lead us to true Ahavat Yisrael. 
-
-There are 5 generous sponsors for the tent:
-
-1) The **Vaksman** Family, in honor of their grandparents 
-
-2) The **Richmond** Family
-
-3) The **Krasnow** Family - לעלוי נשׁמת שׁמואל בּן משׁה ,הניא רבקה בּת שׁמואל ,יחיאל מיכול בּן מרדכי צבי
-
-4) The **Goldberg** Family, wishing everyone a sweet new year for the kehila and klal yisroel. 
-
-5) **Anonymous**, as a Zchus for my family, and the whole community should have a happy sweet new year
+Maariv M-T during the winter will be at 8:15pm
