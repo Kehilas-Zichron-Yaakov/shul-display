@@ -141,3 +141,39 @@ footer .col {
         overflow-y: unset;
     }
 }
+
+.fade-in{
+   animation: FadeIn 3s ease-in-out 0 1 alternate;
+   position: relative;
+}
+
+@keyframes FadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.slide-out {
+   animation: SlideOut 3s ease-in-out 0 1 alternate;
+   position: relative;
+
+}
+@keyframes SlideOut {
+   0% {
+        transform: translateZ(0), scale(1), translateX(0);
+
+   }
+   35%{
+        transform: translateZ(10px), scale(2), translateX(0);
+
+   }
+   100% {
+        transform: translateZ(10px), scale(2), translateX(-100%);
+
+   }
+}

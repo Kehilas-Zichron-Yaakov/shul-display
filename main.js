@@ -425,44 +425,58 @@ Object.keys(schedules).map((schedule) => {
     }
 });
 
+const slideInHTML = (elem, content, time) => {
+    elem.classList.add("slide-out");
+    setTimeout(() => {
+            elem.classList.remove("slide-out");
+            elem.innerHTML = content;
+            elem.classList.add("slide-in");
+            }, time)
+}
 [...document.querySelectorAll(".parsha")].map(
-    (elem) => (elem.innerHTML = getCurrentParsha())
+    (elem) => (slideInHTML(elem, getCurrentParsha(), 3000))
 );
 
-const wifiIsUp = () =>
-    console.log(`Wifi is ${navigator.onLine ? "UP" : "DOWN"}`) &&
-    navigator.onLine;
+const wifiIsUp = () => navigator.onLine;
 
 if (!isMobile)
-    setTimeout(() => wifiIsUp() && window.location.reload(), 1000 * 60 * 60);
+    setTimeout(() => wifiIsUp() && window.location.reload(), 1000 * 60 * 60); // hourly
 
-const mapElements = (cssSelector, callback) =>
-    [...document.querySelectorAll(cssSelector)].map(
-        (elem) => (elem.innerHTML = callback(elem))
+const mapElements = (cssSelector, callback, fade=false) =>
+    document.querySelectorAll(cssSelector).forEach(
+        (elem) => {
+            elem.innerHTML = callback(elem);
+            if(fade){
+                elem.classList.add("fade-in");
+                setTimeout(() => elem.classList.remove("fade-in"), 3000)
+
+            }
+        }
     );
+
 
 const PAGE_LOAD_TIME = moment();
 setInterval(() => {
     const now = moment();
     const time = now.format("LTS");
-    const hebDate = new KosherZmanim.JewishCalendar(now.toDate());
-    const englishDate = now.format("LL");
 
     // Refresh time
     mapElements(
         ".refresh-time",
-        () => "<small><i>Refreshed " + PAGE_LOAD_TIME.fromNow()
-    ) + "...</i></small>";
+        () =>`<small><i>(${wifiIsUp() ? "UP" : "DOWN"}) Refreshed ${PAGE_LOAD_TIME.fromNow()}...</i></small>`);
 
     // Time
     mapElements(".time", () => time);
 
-    // Hebrew Dates
-    mapElements(".hebrew-date", () => hebDate);
-
-    // English Dates
-    mapElements(".english-date", () => englishDate);
 }, 1000);
+const now = moment();
+const hebDate = new KosherZmanim.JewishCalendar(now.toDate());
+const englishDate = now.format("LL");
+// Hebrew Dates
+mapElements(".hebrew-date", () => hebDate, true);
+
+// English Dates
+mapElements(".english-date", () => englishDate, true);
 
 fetch(window.location.href + "announcements.md")
     .then((r) => r.text())
