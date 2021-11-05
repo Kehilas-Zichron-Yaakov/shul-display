@@ -42,6 +42,7 @@ Dedicated by the Weiss Family
 **Coffee for Kislev**  
 
 לעילוי נשמת 
+
 ר' שמואל דוד בן ר' חיים
 י"ט אלול תשמ"ח - 
 
@@ -50,12 +51,10 @@ Dedicated by the Weiss Family
 בינוש - ג' שבט תשע"ד
 
 
- - ר' יוסף בן ר' יהודה ארי
-כ"ג כסלו תשנ"ג
+ ר' יוסף בן ר' יהודה ארי - כ"ג כסלו תשנ"ג
 
 
-מ' בריינדל בת ר' משה
-ז' שבט תשנ"ה - 
+מ' בריינדל בת ר' משה - ז' שבט תשנ"ה
 
 
 Maariv M-T during the winter will be at 8:15pm
