@@ -18,6 +18,7 @@ Schiffman regarding sponsorships
 **בדק הבית לחודש כסלו**
 
 לעילוי נשמת סבינו היקרים
+
 ר' יצחק זאב בן ר' אברהם
 Mr. Imre Weiss
 
@@ -30,24 +31,30 @@ Mr. Antal Klein
 פערל בת ר' אברהם משה
 Mrs. Eva Klein
 
-Dedicated by the Weiss Familyבּ
+Dedicated by the Weiss Family
 
-**נר למאור לחודשׁ כסלו** has been sponsored לע״ן 
- ר' צבי יהודה בן ר' משה
+**נר למאור לחודשׁ כסלו** has been sponsored
 
-**Coffee for Kislev**  לעילוי 
-נשמת 
+לע״ן ר' צבי יהודה בן ר' משה
+
+**Coffee for Kislev**  
+
+לעילוי נשמת 
 ר' שמואל דוד בן ר' חיים
+
 י"ט אלול תשמ"ח
 
 מ' גיטל בת הר"ר אברהם בנימין
 בינוש
+
 ג' שבט תשע"ד
 
 ר' יוסף בן ר' יהודה ארי
+
 כ"ג כסלו תשנ"ג
 
 מ' בריינדל בת ר' משה
+
 ז' שבט תשנ"ה
 
 Maariv M-T during the winter will be at 8:15pm
