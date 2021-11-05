@@ -16,6 +16,7 @@ to do so.
 Schiffman regarding sponsorships
 
 **בדק הבית לחודש כסלו**
+
 לעילוי נשמת סבינו היקרים
 ר' יצחק זאב בן ר' אברהם
 Mr. Imre Weiss
@@ -31,8 +32,7 @@ Mrs. Eva Klein
 
 Dedicated by the Weiss Familyבּ
 
-**נר למאור לחודשׁ כסלו** 
-has been sponsored לע״ן 
+**נר למאור לחודשׁ כסלו** has been sponsored לע״ן 
  ר' צבי יהודה בן ר' משה
 
 **Coffee for Kislev**  לעילוי 
