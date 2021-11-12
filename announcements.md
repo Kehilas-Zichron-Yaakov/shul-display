@@ -1,4 +1,4 @@
-**Parshas Toldos**
+**Parshas Vayeitzei**
 
 **Mazal tov** to those who finished Mesechas Rosh Hashanah with Daf Yomi. Taanis 
 starts on Sunday
