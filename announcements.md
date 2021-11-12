@@ -1,19 +1,25 @@
 **Parshas Toldos**
 
-**Mazel tov** to the Smith Family on the birth of their new baby boy. Shalom Zachor at
-their home 8 Carriage Ln, from 8:15PM
+**Mazal tov** to those who finished Mesechas Rosh Hashanah with Daf Yomi. Taanis 
+starts on Sunday
 
-**Welcome** to the Silverstein family who moved into 31 Sunny Ridge Rd
+**Bnos**  will be by Abrams, 16 Landau, at 2:45pm.
 
-**Bnos**  will be by Krasnow, 6 Bonnie Ct, at 3:30
+**Pirchei** at 2:45pm, hosted by the Staum family, 3 Landau, for boys Kindergarten, 
+thru 1st grade. (If anyone would like to lead the pirchei for the older boys, please 
+speak to Yossi Royde)
 
-**Pirchei** will be restarting soon. If you can lead Pirchei, please volunteer 
-to do so. 
+There will be pirchei for boys 2nd thru 6th grade given by the Rav in shul, 2:45pm 
 
-**Women’s Tehilim** will be by Royde, 18 Bonnie Ct, at 3:30.
+**Women’s Tehilim** will be by Kranczer, 25 Landau, at 2:45pm.
 
-**Avos Ubanim** will be starting **NEXT** Motzei Shabbos. Please speak to Shaya
-Schiffman regarding sponsorships
+**Avos Ubanim** learning starts this week, from 6:40-7:25pm.
+The program has been sponsored throughout the winter as a zechus refuah 
+נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה for shelayma
+.בת הענטשא
+This week’s program has been generously sponsored by the Vaksman Family,
+LeZeicher nishmos Rahil bas Bentzion.
+Special thank you to Shaya Schiffman for arranging the event
 
 **בדק הבית לחודש כסלו**
 
@@ -55,6 +61,3 @@ Dedicated by the Weiss Family
 
 
 מ' בריינדל בת ר' משה - ז' שבט תשנ"ה
-
-
-Maariv M-T during the winter will be at 8:15pm
