@@ -1,25 +1,23 @@
-**Parshas Vayeitzei**
+**Parshas Vayishlach**
 
-**Mazal tov** to those who finished Mesechas Rosh Hashanah with Daf Yomi. Taanis 
-starts on Sunday
+**Mazal tov** v to the Keren Family on the birth of a new baby. Shalom Zachor will be
+by their home 19 Flint, from 7:30PM
 
-**Bnos**  will be by Abrams, 16 Landau, at 2:45pm.
+**Bnos**  will be at the home of the Vorchheimers, 2 Bonnie at 2:45.
 
-**Pirchei** at 2:45pm, hosted by the Staum family, 3 Landau, for boys Kindergarten, 
-thru 1st grade. (If anyone would like to lead the pirchei for the older boys, please 
+**Pirchei** at 2:45pm, for the kindergarten through 1st grade will be by the Roydes, 18 Bonnie, (If anyone would like to lead the pirchei for the older boys, please 
 speak to Yossi Royde)
 
-There will be pirchei for boys 2nd thru 6th grade given by the Rav in shul, 2:45pm 
+**Women’s Tehilim** will be by the Russak Family, at 2:45 iyh
 
-**Women’s Tehilim** will be by Kranczer, 25 Landau, at 2:45pm.
-
-**Avos Ubanim** learning starts this week, from 6:40-7:25pm.
-The program has been sponsored throughout the winter as a zechus refuah 
-נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה for shelayma
+**Avos Ubanim** learning is from 6:40-7:25pm
+The program has been sponsored throughout the winter as a zechus refuah shelayma for
+נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה 
 .בת הענטשא
-This week’s program has been generously sponsored by the Vaksman Family,
-LeZeicher nishmos Rahil bas Bentzion.
-Special thank you to Shaya Schiffman for arranging the event
+and as a shemirah for Rachamim Ben Bracha.
+
+This week has been generously sponsored by the Heber Family, LeZeicher
+Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
 
 **בדק הבית לחודש כסלו**
 
