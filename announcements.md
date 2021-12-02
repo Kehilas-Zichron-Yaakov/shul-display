@@ -1,6 +1,6 @@
-**Parshas Vayishlach**
+**Parshas Miketz/Chanuka/Rosh Chodesh**
 
-**Mazal tov** v to the Keren Family on the birth of a new baby. Shalom Zachor will be
+**Mazal tov** to the Keren Family on the birth of a new baby. Shalom Zachor will be
 by their home 19 Flint, from 7:30PM
 
 **Bnos**  will be at the home of the Vorchheimers, 2 Bonnie at 2:45.
