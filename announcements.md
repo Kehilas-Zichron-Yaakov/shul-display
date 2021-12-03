@@ -1,14 +1,14 @@
 **Parshas Miketz/Chanuka/Rosh Chodesh**
 
-**Mazal tov** to the Keren Family on the birth of a new baby. Shalom Zachor will be
-by their home 19 Flint, from 7:30PM
+**Mazel Tov** to the Richmond family, on the birth of a new baby boy!
 
-**Bnos**  will be at the home of the Vorchheimers, 2 Bonnie at 2:45.
+Begin ומטר טל ותן this Motzei Shabbos
 
-**Pirchei** at 2:45pm, for the kindergarten through 1st grade will be by the Roydes, 18 Bonnie, (If anyone would like to lead the pirchei for the older boys, please 
-speak to Yossi Royde)
+**Bnos**  will resume next week
 
-**Women’s Tehilim** will be by the Russak Family, at 2:45 iyh
+**Pirchei** wiil resume next week
+
+**Women’s Tehilim** will resume next week
 
 **Avos Ubanim** learning is from 6:40-7:25pm
 The program has been sponsored throughout the winter as a zechus refuah shelayma for
@@ -16,8 +16,7 @@ The program has been sponsored throughout the winter as a zechus refuah shelayma
 .בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-This week has been generously sponsored by the Heber Family, LeZeicher
-Nishmas Shmuel Pinchas Ben Yehuda Aryeh Halevi
+This week has been generously sponsored sponsored by the Knopf Family
 
 **בדק הבית לחודש כסלו**
 
