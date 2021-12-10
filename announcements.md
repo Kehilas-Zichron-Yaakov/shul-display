@@ -1,14 +1,16 @@
-**Parshas Miketz/Chanuka/Rosh Chodesh**
+**Parshas Vayigash**
 
-**Mazel Tov** to the Richmond family, on the birth of a new baby boy!
+**Welcome** to Avichaim and Shiffy Plonka who moved into 13 Dorothy
 
-Begin ומטר טל ותן this Motzei Shabbos
+**Welcome** to Shmiel and Gitty Gross who moved into 34 Bonnie Court
 
-**Bnos**  will resume next week
+Tuesday בטבת עשרה - Fast Starts - 6:02. Fast Ends - 5:28
 
-**Pirchei** wiil resume next week
+**Bnos**  is by Friedman, 12 Landau Lane, 245-345pm
 
-**Women’s Tehilim** will resume next week
+**Pirchei** for kindergarten thru 1st grade boys is by Shmulowitz 245-345
+
+**Women’s Tehilim** is by Royde, 18 Bonnie at 245pm
 
 **Avos Ubanim** learning is from 6:40-7:25pm
 The program has been sponsored throughout the winter as a zechus refuah shelayma for
@@ -16,45 +18,40 @@ The program has been sponsored throughout the winter as a zechus refuah shelayma
 .בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-This week has been generously sponsored sponsored by the Knopf Family
+This week has been generously sponsored by the Richmond family
+לע"נ מרת רבקה בת ר' צבי
+נפטרה ו' טבת תשע"ב 
 
-**בדק הבית לחודש כסלו**
+**Motzei Shabbos Girls program**
+4th and 5th grade by Royde, 18 Bonnie
 
-לעילוי נשמת סבינו היקרים
+6 thru 8th is by Staum,
 
-ר' יצחק זאב בן ר' אברהם
-Mr. Imre Weiss
+Drop off before Motzei Shabbos learning, pickup is after. 
 
-חיה שרה בת ר' יהודה
-Mrs. Agnes Weiss
+**בדק הבית לחודש טבת**
 
-ר' יחיאל בן ר' אברהם הלוי
-Mr. Antal Klein
+לעילוי נשמת סבינו היקריםלע"נ מרת רבקה בת ר' צבי
+נפטרה ו' טבת תשע"ב
+ניתרם ע"י משפחת
+ריטשמאנד
 
-פערל בת ר' אברהם משה
-Mrs. Eva Klein
+**נר למאור
+חודש טבת** has been sponsored
 
-Dedicated by the Weiss Family
+לע״נ ר׳ ישראל ראובן ב״ר
+רפאל אליעזר הכהן
 
+ולע״נ צפורה פייגל בת ר׳
+יצחק אלחנן
 
-**נר למאור לחודשׁ כסלו** has been sponsored
-
-לע״ן ר' צבי יהודה בן ר' משה
-
-
-**Coffee for Kislev**  
-
-לעילוי נשמת 
-
-ר' שמואל דוד בן ר' חיים - 
-י"ט אלול תשמ"ח
+נדבת משפחת קראנצער
 
 
-מ' גיטל בת הר"ר אברהם בנימין
-בינוש - ג' שבט תשע"ד
+**Coffee for Teves**  
 
-
- ר' יוסף בן ר' יהודה ארי - כ"ג כסלו תשנ"ג
-
-
-מ' בריינדל בת ר' משה - ז' שבט תשנ"ה
+לעילוי נשמת
+לע"נ מרת רבקה בת ר' צבי
+נפטרה ו' טבת תשע"ב
+ניתרם ע"י משפחת
+ריטשמאנד 
