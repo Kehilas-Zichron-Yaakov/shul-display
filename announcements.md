@@ -1,16 +1,12 @@
-**Parshas Vayigash**
+**Parshas Vayechi**
 
-**Welcome** to Avichaim and Shiffy Plonka who moved into 13 Dorothy
+**Welcome** to Avi and Sarah Braunshwiger who moved into 237 Hempstead Rd this past week
 
-**Welcome** to Shmiel and Gitty Gross who moved into 34 Bonnie Court
+**Bnos**  is by by Pick, 2 Landau Lane, 245-345pm
 
-Tuesday בטבת עשרה - Fast Starts - 6:02. Fast Ends - 5:28
+**Pirchei** for kindergarten thru 1st grade boys (only) is by Chaitovsky 2:45-3:45
 
-**Bnos**  is by Friedman, 12 Landau Lane, 245-345pm
-
-**Pirchei** for kindergarten thru 1st grade boys is by Shmulowitz 245-345
-
-**Women’s Tehilim** is by Royde, 18 Bonnie at 245pm
+**Women’s Tehilim** is by Kranzcer, 25 Landau at 245pm
 
 **Avos Ubanim** learning is from 6:40-7:25pm
 The program has been sponsored throughout the winter as a zechus refuah shelayma for
@@ -18,14 +14,11 @@ The program has been sponsored throughout the winter as a zechus refuah shelayma
 .בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-This week has been generously sponsored by the Richmond family
-לע"נ מרת רבקה בת ר' צבי
-נפטרה ו' טבת תשע"ב 
+This week boys learning has been generously sponsored by the Jackubovic Family
+ל"נ ר 'אליהו יעקב בן נתן נטע הכהן
 
 **Motzei Shabbos Girls program**
-4th and 5th grade by Royde, 18 Bonnie
-
-6 thru 8th is by Staum,
+By Abrams, for 4th thru 8th grade (only).
 
 Drop off before Motzei Shabbos learning, pickup is after. 
 
