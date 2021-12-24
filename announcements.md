@@ -1,12 +1,11 @@
-**Parshas Vayechi**
+**Parshas Shemos**
 
-**Welcome** to Avi and Sarah Braunshwiger who moved into 237 Hempstead Rd this past week
+**Bnos**  is by Binder 2:45-3:45. 
 
-**Bnos**  is by by Pick, 2 Landau Lane, 245-345pm
+**Pirchei** is by Shmulowitz for kindergarten thru 1st
+, at 245
 
-**Pirchei** for kindergarten thru 1st grade boys (only) is by Chaitovsky 2:45-3:45
-
-**Women’s Tehilim** is by Kranzcer, 25 Landau at 245pm
+**Women’s Tehilim** is by Abrams, 16 Landau, at 2:45pm
 
 **Avos Ubanim** learning is from 6:40-7:25pm
 The program has been sponsored throughout the winter as a zechus refuah shelayma for
@@ -14,13 +13,18 @@ The program has been sponsored throughout the winter as a zechus refuah shelayma
 .בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-This week boys learning has been generously sponsored by the Jackubovic Family
-ל"נ ר 'אליהו יעקב בן נתן נטע הכהן
+This week’s learning has been generously sponsored by the Celnik Family as a Refuah Sheleimah for
+שמחה נתן בן זיסל  
 
 **Motzei Shabbos Girls program**
-By Abrams, for 4th thru 8th grade (only).
 
-Drop off before Motzei Shabbos learning, pickup is after. 
+By Binder for 4th and 5th grade (only).
+
+By Royde for 6th thru 8th (only)
+
+Drop off before Motzei Shabbos learning, pickup is after.
+(Due to so many viruses going around lately, we ask that you only send your 
+daughter if everyone in your house has been fever free for 48 hours
 
 **בדק הבית לחודש טבת**
 
