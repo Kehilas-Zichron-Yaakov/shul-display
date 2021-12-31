@@ -1,4 +1,4 @@
-**Parshas Shemos**
+**Shabbos Announcements for Parshas Va'eira - M’varchim Chodesh Sh’vat**
 
 **Mazel tov!** to Yitzy & Esti Robinson on the birth of a baby girl! There will be a 
 Kiddush after davening for men in shul, and for women at the Robinson’s home, 18 
@@ -20,7 +20,6 @@ and as a shemirah for Rachamim Ben Bracha.
 Avos Ubanim this week will be at 6:45 PM sponsored by the Goldstein family נשמת לזכר
 משה בן שמאול, חנה מאטל בת אברהם, זל'ג בן מרדכי, אסתר בת דוב, חיים יהושע בן שניאור, 
 .שפרינצע חיה בת זוסמן
-
 
 **Motzei Shabbos Girls program** will be at 6:45 PM as follows: 4th and 5th grades at 
 the Knopfs, 34 Carriage Lane, 6th and 7th grades at the Sobols, 25 Rensselaer Dr.
