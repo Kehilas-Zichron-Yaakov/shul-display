@@ -1,30 +1,29 @@
 **Parshas Shemos**
 
-**Bnos**  is by Binder 2:45-3:45. 
+**Mazel tov!** to Yitzy & Esti Robinson on the birth of a baby girl! There will be a 
+Kiddush after davening for men in shul, and for women at the Robinson’s home, 18 
+Dorothy Dr.
 
-**Pirchei** is by Shmulowitz for kindergarten thru 1st
-, at 245
+**Shabbos Mevorchim** Rosh Chodesh Shevat will be on Monday
 
-**Women’s Tehilim** is by Abrams, 16 Landau, at 2:45pm
+**Bnos** will resume next week
 
-**Avos Ubanim** learning is from 6:40-7:25pm
-The program has been sponsored throughout the winter as a zechus refuah shelayma for
+**Pirchei** will resume next week
+
+**Women’s Tehilim** is by Aremen 
+
+**Avos Ubanim** program has been sponsored throughout the winter as a zechus refuah shelayma for
 נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה 
 .בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-This week’s learning has been generously sponsored by the Celnik Family as a Refuah Sheleimah for
-שמחה נתן בן זיסל  
+Avos Ubanim this week will be at 6:45 PM sponsored by the Goldstein family נשמת לזכר
+משה בן שמאול, חנה מאטל בת אברהם, זל'ג בן מרדכי, אסתר בת דוב, חיים יהושע בן שניאור, 
+.שפרינצע חיה בת זוסמן
 
-**Motzei Shabbos Girls program**
 
-By Binder for 4th and 5th grade (only).
-
-By Royde for 6th thru 8th (only)
-
-Drop off before Motzei Shabbos learning, pickup is after.
-(Due to so many viruses going around lately, we ask that you only send your 
-daughter if everyone in your house has been fever free for 48 hours
+**Motzei Shabbos Girls program** will be at 6:45 PM as follows: 4th and 5th grades at 
+the Knopfs, 34 Carriage Lane, 6th and 7th grades at the Sobols, 25 Rensselaer Dr.
 
 **בדק הבית לחודש טבת**
 
