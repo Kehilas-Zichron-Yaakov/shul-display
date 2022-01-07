@@ -1,16 +1,15 @@
-**Shabbos Announcements for Parshas Va'eira - M’varchim Chodesh Sh’vat**
+**Shabbos  Announcements for Parshas Bo**
 
-**Mazel tov!** to Yitzy & Esti Robinson on the birth of a baby girl! There will be a 
-Kiddush after davening for men in shul, and for women at the Robinson’s home, 18 
-Dorothy Dr.
+**Mazel tov!** to the Gongola family on the birth of a son. Shalom Zachor will be in the 
+Shul from 7:15 to 9:30
 
 **Shabbos Mevorchim** Rosh Chodesh Shevat will be on Monday
 
-**Bnos** will resume next week
+**Bnos** will be by Levi, 10 Sunny Ridge, at 2:45pm
 
-**Pirchei** will resume next week
+**Pirchei** for kindergarten through 1st, will be by Bromberg, 29 Greenridge Way
 
-**Women’s Tehilim** is by Aremen 
+**Women’s Tehilim** will be by Krasnow, 6 Bonnie Ct, at 2:45 PM
 
 **Avos Ubanim** program has been sponsored throughout the winter as a zechus refuah shelayma for
 נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה 
