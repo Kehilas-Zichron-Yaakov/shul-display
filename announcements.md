@@ -8,13 +8,12 @@
 
 **Women’s Tehilim** will be by Royde, 18 Bonnie Ct, at 2:45 PM
 
-**Avos Ubanim** program has been sponsored throughout the winter as a zechus refuah shelayma for
-נטא יצחק בן רחל, חי 'רחל בת פשא ריזא ,שלמה מנחם הכהן בן שרה ניכא ,מאשה צביה 
-.בת הענטשא
-and as a shemirah for Rachamim Ben Bracha.
+**Avos Ubanim** will be at 6:45 PM, sponsored by the Schiffman Family,
+לעלוי נשמת ר' ישעי' בן ר' יחיאל & ר' משה אהרן בן ר' ישראל אלי' הכהן 
 
-Avos Ubanim this week will be at 6:45 PM, sponsored by the Binder family בת חיה נשמת לזכר
-יעקב, ומשה בן יעקב
+It has also been sponsored throughout the winter as a zechus refuah shelaima for 
+ ,נטע יצחק בן רחל, חי‘ רחל בת פשא ריזא, שלמה מנחם הכהן בן שרה ניכא, מאשה צביה בת הענטשא
+and as a shemirah for Rachamim Ben Bracha.
 
 **Motzei Shabbos Girls program** is suspended this week because of the Monsey Bnos event
 
