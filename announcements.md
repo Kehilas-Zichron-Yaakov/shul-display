@@ -1,12 +1,10 @@
-**Shabbos  Announcements for Parshas Beshalach**
-
-**Mazel tov!** to all the people that finished Masechas Megillah
+**Shabbos  Announcements for Parshas Yisro**
 
 **Bnos** will be by Krasnow, 6 Bonnie Ct, at 2:45 PM
 
-**Pirchei** for kindergarten through 1st, will be by Gluck, 1 Schettig Ct. at 2:45 pm
+**Pirchei** for kindergarten through 1st, will be by Kranczer, 25 Landau Ln. at 2:45 pm
 
-**Women’s Tehilim** will be by Royde, 18 Bonnie Ct, at 2:45 PM
+**Women’s Tehilim** will be by Kranczer, 25 Landau Ln, at 2:45 PM
 
 **Avos Ubanim** will be at 6:45 PM, sponsored by the Schiffman Family,
 לעלוי נשמת ר' ישעי' בן ר' יחיאל & ר' משה אהרן בן ר' ישראל אלי' הכהן 
@@ -17,7 +15,7 @@ and as a shemirah for Rachamim Ben Bracha.
 
 **Motzei Shabbos Girls program** is suspended this week because of the Monsey Bnos event
 
-**בדק הבית לחודש טבת**
+**בדק הבית חודש שבט**
 
 לע''נ חיה סערל בת ר' צבי
 נפטרה כ"ג שבט תשס"ז
@@ -25,14 +23,14 @@ and as a shemirah for Rachamim Ben Bracha.
 הרשקוביץ
 
 **נר למאור
-חודש טבת** 
+חודש שבט** 
 
 לע''נ ר' ישע' בן ר' יחיאל
 לע''נ ר' משה אהרן בן ר'
 ישראל אלי' הכהן
 נדבת משפחת שיפמאן
 
-**Coffee for Teves**  
+**Coffee for Shvat**  
 
 לעילוי נשמת
 ר' שמואל דוד בן ר' חיים
