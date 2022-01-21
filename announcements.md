@@ -1,19 +1,26 @@
 **Shabbos  Announcements for Parshas Yisro**
 
-**Bnos** will be by Krasnow, 6 Bonnie Ct, at 2:45 PM
+
+**Bnos** will be by Abrams, 16 Landau Ln, at 2:45pm
 
 **Pirchei** for kindergarten through 1st, will be by Kranczer, 25 Landau Ln. at 2:45 pm
 
-**Women’s Tehilim** will be by Kranczer, 25 Landau Ln, at 2:45 PM
+**Nshei** event Motzei Shabbos 8:30pm
 
-**Avos Ubanim** will be at 6:45 PM, sponsored by the Schiffman Family,
-לעלוי נשמת ר' ישעי' בן ר' יחיאל & ר' משה אהרן בן ר' ישראל אלי' הכהן 
+**Women’s Tehilim** will be by Kranczer, 25 Landau Ln, at 2:45 pm. There will be a Siyum this
+week!
 
-It has also been sponsored throughout the winter as a zechus refuah shelaima for 
+**Avos Ubanim** is at 7:00pm, sponsored by the Vaksman Family, Lezechus refuah
+shelema for Gennady Ben Rahil and Yevgeniya bas Faina and Lezechus for shidduch
+Bekarov for Gregory Ben Gennady.
+
+It has also been sponsored throughout the winter as a zechus refuah shelaima for
  ,נטע יצחק בן רחל, חי‘ רחל בת פשא ריזא, שלמה מנחם הכהן בן שרה ניכא, מאשה צביה בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-**Motzei Shabbos Girls program** is suspended this week because of the Monsey Bnos event
+**Motzei Shabbos Girls program** 4th and 5th Graders is by Keren, 19 Flint
+
+6th thru 8th is by Binder, 48 Greenridge Way. Drop off before boys learning, pickup is right after. 
 
 **בדק הבית חודש שבט**
 
