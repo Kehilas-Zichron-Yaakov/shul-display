@@ -1,26 +1,26 @@
-**Shabbos  Announcements for Parshas Yisro**
+**Shabbos  Announcements for Parshas Mishpatim / Mevorchim Chodesh Adar I**
 
+**Rosh Chodesh Adar I** is on Tuesday & Wednesday
 
-**Bnos** will be by Abrams, 16 Landau Ln, at 2:45pm
+**Kiddush** sponsored by the Rav and Rebbetzen in honor of בשמחה מרבים אדר משנכנס
+“May it be a double Simcha this year for all Iyh!”
 
-**Pirchei** for kindergarten through 1st, will be by Kranczer, 25 Landau Ln. at 2:45 pm
+**Bnos** will resume next week
+
+**Pirchei** will resume next week
 
 **Nshei** event Motzei Shabbos 8:30pm
 
-**Women’s Tehilim** will be by Kranczer, 25 Landau Ln, at 2:45 pm. There will be a Siyum this
-week!
+**Women’s Tehilim** will be by Russak, 19 Rensselaer, at 2:45pm
 
-**Avos Ubanim** is at 7:00pm, sponsored by the Vaksman Family, Lezechus refuah
-shelema for Gennady Ben Rahil and Yevgeniya bas Faina and Lezechus for shidduch
-Bekarov for Gregory Ben Gennady.
+**Avos Ubanim** is at 7:00pm, sponsored by the Weiner family in honor of the great
+appreciation for our Rav and Rebbetzin for all they have done for our community
 
 It has also been sponsored throughout the winter as a zechus refuah shelaima for
  ,נטע יצחק בן רחל, חי‘ רחל בת פשא ריזא, שלמה מנחם הכהן בן שרה ניכא, מאשה צביה בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-**Motzei Shabbos Girls program** 4th and 5th Graders is by Keren, 19 Flint
-
-6th thru 8th is by Binder, 48 Greenridge Way. Drop off before boys learning, pickup is right after. 
+**Motzei Shabbos Girls program** will resume next week
 
 **בדק הבית חודש שבט**
 
