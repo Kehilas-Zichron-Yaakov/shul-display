@@ -1,6 +1,6 @@
 **Shabbos  Announcements for Parshas Terumah**
 
-**Mazal tov** to the Wiener family on the birth of girl!
+**Mazal tov** to the Wiener family on the birth of a girl!
 
 **Bnos** will take place at the home of the Vorchheimer family, 2 Bonnie, at 2:45pm
 
