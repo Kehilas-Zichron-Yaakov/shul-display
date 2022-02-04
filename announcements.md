@@ -1,26 +1,22 @@
-**Shabbos  Announcements for Parshas Mishpatim / Mevorchim Chodesh Adar I**
+**Shabbos  Announcements for Parshas Terumah**
 
-**Rosh Chodesh Adar I** is on Tuesday & Wednesday
+**Mazal tov** to the Wiener family on the birth of girl!
 
-**Kiddush** sponsored by the Rav and Rebbetzen in honor of בשמחה מרבים אדר משנכנס
-“May it be a double Simcha this year for all Iyh!”
-
-**Bnos** will resume next week
+**Bnos** will take place at the home of the Vorchheimer family, 2 Bonnie, at 2:45pm
 
 **Pirchei** will resume next week
 
-**Nshei** event Motzei Shabbos 8:30pm
+**Women’s Tehilim** will be by the home of the Rav and Rebbetzen, 19 Rensselaer, at 2:45pm.
 
-**Women’s Tehilim** will be by Russak, 19 Rensselaer, at 2:45pm
-
-**Avos Ubanim** is at 7:00pm, sponsored by the Weiner family in honor of the great
-appreciation for our Rav and Rebbetzin for all they have done for our community
+**Avos Ubanim** is at 7:10pm, sponsored by the Frenkel Family, Liylu Nishmas:
+Mordechai Dovid ben Eliezer Halevi, and Leah bas Yaakov
 
 It has also been sponsored throughout the winter as a zechus refuah shelaima for
  ,נטע יצחק בן רחל, חי‘ רחל בת פשא ריזא, שלמה מנחם הכהן בן שרה ניכא, מאשה צביה בת הענטשא
 and as a shemirah for Rachamim Ben Bracha.
 
-**Motzei Shabbos Girls program** will resume next week
+**Motzei Shabbos Girls program**  for all ages run by Gila kapnik at the Royde home, 18 Bonnie Ct.
+Drop off before boys learning, pickup is after.
 
 **בדק הבית חודש שבט**
 
