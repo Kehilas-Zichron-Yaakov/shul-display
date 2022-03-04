@@ -1,47 +1,37 @@
-**Shabbos  Announcements for Parshas Terumah**
+**Shabbos  Announcements for Parshas Pekudei**
 
-**Mazal tov** to the Wiener family on the birth of a girl!
+**Mazal tov** to Avi and Tzipporah Goldstein and family upon the birth of a baby girl!
 
-**Bnos** will take place at the home of the Vorchheimer family, 2 Bonnie, at 2:45pm
+**Mazal tov** to our Daf Yomi participants upon the completion of Maseches Chagigah and Seder
+Moed! For those who have not yet joined, now is the perfect time, as Maseches Yevamos and
+Seder Nashim will commence this coming Wednesday
 
-**Pirchei** will resume next week
+**Pirchei (K through 1st Grade)** 2:55 PM, Kranczer home, 25 Landau Lane
 
-**Women’s Tehilim** will be by the home of the Rav and Rebbetzen, 19 Rensselaer, at 2:45pm.
+**Women’s Tehilim** will take place at KZY following Rabbi Kaiser’s 3:00 PM speech
 
-**Avos Ubanim** is at 7:10pm, sponsored by the Frenkel Family, Liylu Nishmas:
-Mordechai Dovid ben Eliezer Halevi, and Leah bas Yaakov
 
-It has also been sponsored throughout the winter as a zechus refuah shelaima for
- ,נטע יצחק בן רחל, חי‘ רחל בת פשא ריזא, שלמה מנחם הכהן בן שרה ניכא, מאשה צביה בת הענטשא
-and as a shemirah for Rachamim Ben Bracha.
 
-**Motzei Shabbos Girls program**  for all ages run by Gila kapnik at the Royde home, 18 Bonnie Ct.
-Drop off before boys learning, pickup is after.
+**בדק הבית חודש אדר ב'**
 
-**בדק הבית חודש שבט**
-
-לע''נ חיה סערל בת ר' צבי
-נפטרה כ"ג שבט תשס"ז
-נדבת ע"י משפחת
-הרשקוביץ
+לזרע של קיימא
+חיה פייגא בת שיינדל ביילא
+קלונומוס בן רבקה
 
 **נר למאור
-חודש שבט** 
+חודש אדר ב' ** 
 
-לע''נ ר' ישע' בן ר' יחיאל
-לע''נ ר' משה אהרן בן ר'
-ישראל אלי' הכהן
-נדבת משפחת שיפמאן
+ותשלח ברכה והצלחה בכל
+מעשה ידינו והכן פרנסתנו מידך
+הרחבה והמלאה ושלא יצטרכו
+עמך בית ישראל זה לזה ולא
+לעם אחר ותן לכל איש ואיש
+די פרנסתו.
+**Coffee for חודש אדר ב'**  
 
-**Coffee for Shvat**  
-
-לעילוי נשמת
-ר' שמואל דוד בן ר' חיים
-י"ט אלול תשמ"ח
-מ' גיטל בת הר"ר אברהם
-בנימין בינוש
-ג' שבט תשע"ד
-ר' יוסף בן ר' יהודה ארי
-כ"ג כסלו תשנ"ג
-מ' בריינדל בת ר' משה
-ז' שבט תשנ"ה
+This month’s coffee has been
+anonymously sponsored in
+honor of Pinchas Nussbaum
+and Shaya Schiffman for all
+they do on behalf of the Shul
+and community.
