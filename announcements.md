@@ -1,15 +1,16 @@
-**Shabbos  Announcements for Parshas Pekudei**
+**Shabbos  Announcements for Parshas Vayikra / Zachor**
 
-**Mazal tov** to Avi and Tzipporah Goldstein and family upon the birth of a baby girl!
+**Mazal tov** Moshe and Chaya Mayer and family upon the birth of a baby girl! 
 
-**Mazal tov** to our Daf Yomi participants upon the completion of Maseches Chagigah and Seder
-Moed! For those who have not yet joined, now is the perfect time, as Maseches Yevamos and
-Seder Nashim will commence this coming Wednesday
+This week’s **kiddush** is in honor of Rav and Rebbetzin Russak. Many thanks to all who sponsored! 
 
-**Pirchei (K through 1st Grade)** 2:55 PM, Kranczer home, 25 Landau Lane
+**Tehillim**: 3:10 PM, Smith home, 8 Carriage Lane
 
-**Women’s Tehilim** will take place at KZY following Rabbi Kaiser’s 3:00 PM speech
+**Pirchei** (K through 1st Grade): There is no Pirchei this week. 
 
+**Bnos**: 3:00 PM, Abrams home, 16 Landau Lane 
+
+Parshas Zachor Leinings: 11:30 AM; 1:30 PM before early Mincha
 
 
 **בדק הבית חודש אדר ב'**
