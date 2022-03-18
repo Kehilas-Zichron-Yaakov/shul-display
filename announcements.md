@@ -1,17 +1,8 @@
-**Shabbos  Announcements for Parshas Vayikra / Zachor**
+**Shabbos  Announcements for Parshas Tzav** 
 
-**Mazal tov** Moshe and Chaya Mayer and family upon the birth of a baby girl! 
+**Tehillim: 4:30 PM, Krasnow home, 6 Bonnie Court**
 
-This week’s **kiddush** is in honor of Rav and Rebbetzin Russak. Many thanks to all who sponsored! 
-
-**Tehillim**: 3:10 PM, Smith home, 8 Carriage Lane
-
-**Pirchei** (K through 1st Grade): There is no Pirchei this week. 
-
-**Bnos**: 3:00 PM, Abrams home, 16 Landau Lane 
-
-Parshas Zachor Leinings: 11:30 AM; 1:30 PM before early Mincha
-
+**Pirchei and Bnos will be taking a break until after Pesach, after which they will run until Shavuos.**
 
 **בדק הבית חודש אדר ב'**
 
