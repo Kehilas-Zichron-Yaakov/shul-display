@@ -1,29 +1,27 @@
-**Shabbos  Announcements for Parshas Tzav** 
+**Shabbos  Announcements for Parshas Tazria/Parshas HaChodesh** 
 
-**Tehillim: 4:30 PM, Krasnow home, 6 Bonnie Court**
+**Mazal tov** to Menachem and Gitty Gongola upon the bar mitzvah of their son, Aryeh Leib! The community in invited to a kiddush in his honor following davening.
+
+**Mazal tov**  to Moshe and Leeba Herskovich upon the birth of a baby boy! The community is invited to a shalom zachar in his honor at 9:30 PM at 5 Flint Drive.
+
+**Tehillim: 4:00 PM, Smith home, 8 Carriage Lane**
 
 **Pirchei and Bnos will be taking a break until after Pesach, after which they will run until Shavuos.**
 
-**בדק הבית חודש אדר ב'**
+**בדק הבית חודש ניסן**
 
-לזרע של קיימא
-חיה פייגא בת שיינדל ביילא
-קלונומוס בן רבקה
+לרפואה שלמה לנפתלי בן חוה
+לע"נ אברהם משה בן שרגא
+פאטיל הכהן
 
 **נר למאור
-חודש אדר ב' ** 
+חודש ניסן** 
 
-ותשלח ברכה והצלחה בכל
-מעשה ידינו והכן פרנסתנו מידך
-הרחבה והמלאה ושלא יצטרכו
-עמך בית ישראל זה לזה ולא
-לעם אחר ותן לכל איש ואיש
-די פרנסתו.
-**Coffee for חודש אדר ב'**  
+לע"נ לאה בת ר' אברהם אריה
+נדבת ע "י משפחת קנאופף.
+**Coffee for חודש ניסן**  
 
-This month’s coffee has been
-anonymously sponsored in
-honor of Pinchas Nussbaum
-and Shaya Schiffman for all
-they do on behalf of the Shul
-and community.
+This month’s coffee has
+been sponsored by the
+Knopf family
+לע"נ לאה בת ר' אברהם אריה
