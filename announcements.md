@@ -1,10 +1,10 @@
-**Shabbos  Announcements for Parshas Tazria/Parshas HaChodesh** 
+**Shabbos  Announcements for Parshas Metzora/Shabbos HaGadol** 
 
-**Mazal tov** to Menachem and Gitty Gongola upon the bar mitzvah of their son, Aryeh Leib! The community in invited to a kiddush in his honor following davening.
+**Drasha** Rabbi Staum will be giving a Shabbos HaGadol drasha for the women in shul at 4:00 on 
+Shabbos, immediately after which Tehillim will follow.
 
-**Mazal tov**  to Moshe and Leeba Herskovich upon the birth of a baby boy! The community is invited to a shalom zachar in his honor at 9:30 PM at 5 Flint Drive.
-
-**Tehillim: 4:00 PM, Smith home, 8 Carriage Lane**
+Rabbi Staum will be giving a Shabbos HaGadol drasha for the men in shul between Mincha 
+and Maariv on Shabbos. Please eat shalos suedos before shul.
 
 **Pirchei and Bnos will be taking a break until after Pesach, after which they will run until Shavuos.**
 
