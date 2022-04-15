@@ -9,8 +9,7 @@ Wishing KZY a Chag Kasher V'Sameach
 7:36 – שקיעה
  
  7:46 – מעריב
-
-                                                                                                                                     Begin the Seder after 8:26
+ Begin the Seder after 8:26
  
  
 יום א' פסח
