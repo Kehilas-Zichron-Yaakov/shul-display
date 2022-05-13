@@ -1,18 +1,18 @@
-**Announcements for Parshas Kedoshim 5782** 
+**Announcements for Parshas Emor 5782** 
 
-**Mazal tov** Chaim and Elisheva Savin upon the birth of a baby girl!
+**Mazal tov** to Shana and Betzalel Gold upon the birth of a baby boy!
 
-We welcome back Rabbi and Rebbetzin Kaiser this Shabbos! We will have several
-opportunities over the course of Shabbos to engage further with them
+With gratitude to Hashem, Eli and Sara Leah Wiener would like to invite the
+community to their home, 32 Greenridge Way, for a kiddush after davening in honor
+of the birth of their daughter, Naava Tehilla.
 
 **Mincha/Maariv** Sunday- Thursday: 12 minutes before shkia through the summer
 
-**Tehilim** Rabbi Kaiser will be speaking at the Shabbos day Tehillim for women, which will be
-held at 3:30 at the shul.
+**Tehilim** will take place at the Kranczer home, 25 Landau Lane, 4:00 PM
 
-**Bnos** will take place at the Abrams home, 16 Landau Road, at 4:30 PM
+**Bnos** will take place at the Binder home, 48 Greenridge Way, 3:45 PM
 
-**Pirchei** will NOT take place this week
+**Pirchei** will take place this week at the Royde home, 18 Bonnie Court, 3:45 PM, for grades K-1 only.
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
