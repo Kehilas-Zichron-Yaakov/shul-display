@@ -1,8 +1,12 @@
 **Announcements for Parshas Emor 5782** 
 
+**Mazal tov** to Kehilas Zichron Yaakov upon the hiring of Rabbi Yosef Kaiser to serve as Rov. 
+
+**Thank You** A special thank you to the Rov Search Committee for their tireless efforts ensuring that the process be as smooth as possible
+
 **Mazal tov** to Shana and Betzalel Gold upon the birth of a baby boy!
 
-With gratitude to Hashem, Eli and Sara Leah Wiener would like to invite the
+**Kiddush** With gratitude to Hashem, Eli and Sara Leah Wiener would like to invite the
 community to their home, 32 Greenridge Way, for a kiddush after davening in honor
 of the birth of their daughter, Naava Tehilla.
 
