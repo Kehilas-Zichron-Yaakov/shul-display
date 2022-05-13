@@ -1,6 +1,6 @@
 **Announcements for Parshas Emor 5782** 
 
-**Mazal tov** to Kehilas Zichron Yaakov upon the hiring of Rabbi Yosef Kaiser to serve as Rov. 
+**Mazal tov** to Kehilas Zichron Yaakov upon the electing of Rabbi Yosef Kaiser to serve as Rov. 
 
 **Thank You** A special thank you to the Rov Search Committee for their tireless efforts ensuring that the process be as smooth as possible
 
