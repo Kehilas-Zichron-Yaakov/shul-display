@@ -1,22 +1,12 @@
-**Announcements for Parshas Emor 5782** 
-
-**Mazal tov** to Kehilas Zichron Yaakov upon the electing of Rabbi Yosef Kaiser to serve as Rov. 
-
-**Thank You** A special thank you to the Rov Search Committee for their tireless efforts ensuring that the process be as smooth as possible
-
-**Mazal tov** to Shana and Betzalel Gold upon the birth of a baby boy!
-
-**Kiddush** With gratitude to Hashem, Eli and Sara Leah Wiener would like to invite the
-community to their home, 32 Greenridge Way, for a kiddush after davening in honor
-of the birth of their daughter, Naava Tehilla.
+**Announcements for Parshas Behar 5782** 
 
 **Mincha/Maariv** Sunday- Thursday: 12 minutes before shkia through the summer
 
-**Tehilim** will take place at the Kranczer home, 25 Landau Lane, 4:00 PM
+**Tehilim** will take place at the Areman home, 26 Sunny Ridge, 4:00 PM
 
-**Bnos** will take place at the Binder home, 48 Greenridge Way, 3:45 PM
+**Bnos** will take place at the Vorcheimmer home, 2 Bonnie Court, 3:45 PM.
 
-**Pirchei** will take place this week at the Royde home, 18 Bonnie Court, 3:45 PM, for grades K-1 only.
+**Pirchei** will take place this week at TBA, for grades K-1 only.
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
