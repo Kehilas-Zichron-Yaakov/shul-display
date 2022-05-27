@@ -1,12 +1,21 @@
-**Announcements for Parshas Behar 5782** 
+**Announcements for Parshas Bechukosai 5782 / Shabbos Mevorchim Sivan** 
+
+**Rosh Chodesh** l Sivan will be on Tuesday.
+
+**Welcome** and mazal tov wishes to Rabbi and Rebbetzin Kaiser and family upon Rabbi Kaiser’s induction as rabbi of Kehilas Zichron Yaakov!
+
+**Welcome** to Michael and Amy Adler and family!
+
+**Kiddush** will be a seudas hodaya, sponsored by the Mizrahi Family, in recognition and acknowledgment of, 
+and with gratitude and appreciation to, Hakadosh Baruch Hu for His ever-watchful providence during the deployment and redeployment phases to and from the Kuwaiti war zone during Operation Inherent Resolve (2021-22).
 
 **Mincha/Maariv** Sunday- Thursday: 12 minutes before shkia through the summer
 
-**Tehilim** will take place at the Areman home, 26 Sunny Ridge, 4:00 PM
+**Tehilim** will take place at the Krasnow home, 6 Bonnie Court, 4:00 PM
 
-**Bnos** will take place at the Vorcheimmer home, 2 Bonnie Court, 3:45 PM.
+**Bnos** will take place at the Pick home, 2 Landau Lane, 3:45 PM.
 
-**Pirchei** will take place this week at TBA, for grades K-1 only.
+**Pirchei** will take place this week at the Staum home, 3 Landau Lane, 3:45 PM. For grades K-1 only.
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
