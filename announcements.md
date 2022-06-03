@@ -1,20 +1,10 @@
-**Announcements for Parshas Bamidbar 5782 / Chag Shavous** 
+**Announcements for Parshas Bamidbar 5782 / Chag Shavuos** 
 
 **Mazal tov** to Simcha and Rachel Silverstein upon the birth of a baby girl!
 
 **Welcome** to Chaim and Rochel Adler!
 
-**Kiddush** The learning and kiddush for Shavuos are sponsored by/in honor of:
-.לעילוי נשמת ר' נתן שלום ב''ר אברהם יוסף ,family Schiffman The o
-o In honor of Rabbi Kaiser and his family: Welcome to the community!
-.לעילוי נשמת יעקב אברהם בן גדליהו יהודה הכהן ,family Nussbaum The o
-o E.C. and Penina Birnbaum: In honor of our special community. We are proud to be a
-part of it!
-לעילוי נשמת אחינו היקר o
-שמואל אלימלך בן ר' ישראל יעקב הלוי
-נפטר ה' סיון תשפ"א
-ת.נ.צ.ב.ה
-נדבת משפחת גראס
+**Kiddush** The learning and kiddush for Shavuos are sponsored by: The Schiffman, Anonymous, Nussbaum, Birnbaum, & Gross families
 
 **Nshei Kiddush** all women and children of KZY are cordially invited to our first Nshei Shavuos kiddush,
 which will take place at the Kranczer home, 25 Landau Lane, at 10:00 AM on Sunday
