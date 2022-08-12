@@ -1,4 +1,7 @@
-**Announcements for Parshas Devarim 5782** 
+**Announcements for Parshas Vaeschanan 5782 / 
+Shabbos Nachamu** 
+
+**Kiddush** This week's kiddush is being sponsored by the Goldstein family in honor of the birth of their daughter Ahuva Rochel. 
 
 **Mincha/Maariv** Sunday- Thursday: 12 minutes before shkia through the summer
 
