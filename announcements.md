@@ -1,4 +1,4 @@
-**Announcements for פרשת עקב תשפ"ב** 
+**Announcements for פרשת עקב תשפ"ב / שבת מברכים חודש אלול** 
 
 **מזל טוב** 
 
@@ -14,7 +14,7 @@ Sunday- Thursday: 12 minutes before shkia through the summer
 
 **תהלים**
 
- will take place at the Smith home, 8 Carriage Lane, 4:00 PM
+ Tehillim will take place at the Smith home, 8 Carriage Lane, 4:00 PM
 
 **Women’s Tanya Shiur** Shul, 4:45 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
