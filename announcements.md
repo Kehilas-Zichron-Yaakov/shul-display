@@ -30,4 +30,4 @@ Sponsored anonymously in honor  of Pinchas Nussbaum for all he does for our comm
 
 **קפה חודש אב**  
 
-This month’s coffee has been sponsored by the Knopf Family ה"ע הנח 'ר תב הרש נ"על. 
+This month’s coffee has been sponsored by the Knopf Family לע"נ שרה בת ר חנה ע"ה 
