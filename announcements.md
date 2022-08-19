@@ -1,13 +1,14 @@
-**Announcements for Parshas Vaeschanan 5782 / 
-Shabbos Nachamu** 
+**Announcements for פרשת עקב תשפ"ב** 
 
-**Kiddush** This week's kiddush is being sponsored by the Goldstein family in honor of the birth of their daughter Ahuva Rochel. 
+**מזל טוב** to Rami & Esther Rakhamimov on the birth of a baby boy! Shalom Zachor/ Vacht Nacht/ Brit Yitzchak will take place at 9:15PM at 4 Schettig C
 
-**Mincha/Maariv** Sunday- Thursday: 12 minutes before shkia through the summer
+**קידוש** This week's kiddush is being sponsored by the Rakhamimov family in honor of the bris of their son which will take place at their home  at 11:15 - 4 Schettig Ct 
 
-**Tehilim** will take place at the Kranczer home, 25 Landau Lane, 4:00 PM
+**מנחה/מעריב** Sunday- Thursday: 12 minutes before shkia through the summer
 
-**Women’s Tanya Shiur** Silverstein home, 34 Greenridge Way, 4:45 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
+**תהילים** will take place at the Smith home, 8 Carriage Lane, 4:00 PM
+
+**Women’s Tanya Shiur** Shul, 4:45 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
