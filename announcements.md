@@ -1,12 +1,20 @@
 **Announcements for פרשת עקב תשפ"ב** 
 
-**מזל טוב** to Rami & Esther Rakhamimov on the birth of a baby boy! Shalom Zachor/ Vacht Nacht/ Brit Yitzchak will take place at 9:15PM at 4 Schettig C
+**מזל טוב** 
 
-**קידוש** This week's kiddush is being sponsored by the Rakhamimov family in honor of the bris of their son which will take place at their home  at 11:15 - 4 Schettig Ct 
+to Rami & Esther Rakhamimov on the birth of a baby boy! Shalom Zachor/ Vacht Nacht/ Brit Yitzchak will take place at 9:15PM at 4 Schettig C
 
-**מנחה/מעריב** Sunday- Thursday: 12 minutes before shkia through the summer
+**קידוש** 
 
-**תהילים** will take place at the Smith home, 8 Carriage Lane, 4:00 PM
+This week's kiddush is being sponsored by the Rakhamimov family in honor of the bris of their son which will take place at their home  at 11:15 - 4 Schettig Ct 
+
+**מנחה/מעריב** 
+
+Sunday- Thursday: 12 minutes before shkia through the summer
+
+**תהלים**
+
+ will take place at the Smith home, 8 Carriage Lane, 4:00 PM
 
 **Women’s Tanya Shiur** Shul, 4:45 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
