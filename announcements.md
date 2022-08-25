@@ -20,20 +20,24 @@ Sunday- Thursday: 12 minutes before shkia through the summer
 
 **תהלים**
 
- Tehillim will take place at the Smith home, 8 Carriage Lane, 4:00 PM
+Tehillim: Krasnow home- 6 Bonnie Ct, 4:00 PM. 
 
-**Women’s Tanya Shiur** Shul, 4:45 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
+**Women’s Tanya Shiur** Shul, 4:40 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
-**בדק הבית חודש אב**
+** בדק הבית חודש אלול**
 
-In honor of our Rabbi. May he teach us true ahavath and yirath Hashem and ahavath Yisrael to remove any and all sinath hinam from our hearts in this month of Av, when such hatred took our Temple from us and destroyed Yerushalayim. In doing so, may we hold our shul sacred by refraining from needless conversation so we may be worthy to see the Messiah in our days. Dedicated by the Huerta Family
+ ה"ע יבצ הדוהי 'ר ןב בייל הירא 'ר נ"על פ"שת לולא 'ט רטפנ                     
 
-**נר למאור חודש אב**
+ דנאמשטיר תחפשמ תבדנ     
 
-Sponsored anonymously in honor  of Pinchas Nussbaum for all he does for our community and shul
+**נר למאור חודש אלול**
 
-**קפה חודש אב**  
+יולה הירא הדוהי ןב סחניפ לאומש 'ר נ"זל  
 
-This month’s coffee has been sponsored by the Knopf Family  ה"ע הנח 'ר תב הרש נ"על. 
+ רעבעה תחפשמ תבדנ
+
+**קפה חודש אלול**  
+
+This month’s coffee has been sponsored by Michael and Amy Adler in appreciation of this wonderful community 
