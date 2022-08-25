@@ -1,16 +1,18 @@
 **Announcements:**
 
-**פרשת עקב תשפ"ב**
+**פרשת ראה תשפ"ב**
 
-**שבת מברכים חודש אלול** 
+**ראש חודש אלול** 
 
 **מזל טוב** 
 
-to Rami & Esther Rakhamimov on the birth of a baby boy! Shalom Zachor/ Vacht Nacht/ Brit Yitzchak will take place at 9:15PM at 4 Schettig C
+Mazel tov to the Areman family on the birth of a baby boy. Sholom Zachar will take place in the Areman home, 26 Sunny Ridge Rd, at 9:30 PM. 
+
+Mazel Tov to Rabbi and Mrs. Moskovitz on the birth of a granddaughter. 
 
 **קידוש** 
 
-This week's kiddush is being sponsored by the Rakhamimov family in honor of the bris of their son which will take place at their home  at 11:15 - 4 Schettig Ct 
+Hillel and Gila Kapnick would like to invite the community to a kiddush this Shabbos, Rosh Chodesh Elul, in honor of their daughter, Tikva Rochel. Kiddush following davening in shul
 
 **מנחה/מעריב** 
 
