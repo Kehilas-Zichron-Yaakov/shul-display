@@ -6,37 +6,40 @@
 
 **מזל טוב** 
 
-Mazel tov to the Areman family on the birth of a baby boy. Sholom Zachar will take place in the Areman home, 26 Sunny Ridge Rd, at 9:30 PM. 
+Mazal tov to the Mayer family upon the bar mitzvah of Menachem!
 
-Mazel Tov to Rabbi and Mrs. Moskovitz on the birth of a granddaughter. 
+Mazal tov to the Krasnow family upon the birth of a baby boy! There will be a shalom zachar at the Krasnow home, 6 Bonnie Court, on Friday night at 9:30 PM.
+
+Mazal tov to the Silverstein family upon the birth of a baby boy! 
 
 **קידוש** 
 
-Hillel and Gila Kapnick would like to invite the community to a kiddush this Shabbos, Rosh Chodesh Elul, in honor of their daughter, Tikva Rochel. Kiddush following davening in shul
+The Mayer Family invites the entire community to a kiddush after davening, in honor of the bar mitzvah of their dear son, Menachem.
 
-**מנחה/מעריב** 
+**Shiur**
 
-Sunday- Thursday: 12 minutes before shkia through the summer
+The Rov will be giving a shiur at KZY for women at 4:00 PM on Shabbos day.
 
 **תהלים**
 
-Tehillim: Krasnow home- 6 Bonnie Ct, 4:00 PM. 
+Tehillim: KZY, immediately following Rav’s 4:00 PM shiur 
 
-**Women’s Tanya Shiur** Shul, 4:40 PM. Topic: Shaar HaYichud VeHaEmunah. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
+**Women’s Tanya Shiur** will take place at the : Sahler home, 14 Carriage Lane, 5:00 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
-** בדק הבית חודש אלול**
+**בדק הבית חודש אלול**
 
- ה"ע יבצ הדוהי 'ר ןב בייל הירא 'ר נ"על פ"שת לולא 'ט רטפנ                     
+ לז"נ ר' שמואל פינחס בן יהודה אריה הלוי                     
 
- דנאמשטיר תחפשמ תבדנ     
+נדבת משפחת העבער      
 
 **נר למאור חודש אלול**
 
-יולה הירא הדוהי ןב סחניפ לאומש 'ר נ"זל  
+לע"נ ר' אריה לייב בן ר' יהודה צבי ע"ה
+נפטר ט' אלול תש"פ  
 
- רעבעה תחפשמ תבדנ
+ נדבת משפחת ריטשמאנד
 
 **קפה חודש אלול**  
 
