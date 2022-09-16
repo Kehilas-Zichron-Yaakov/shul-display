@@ -1,29 +1,17 @@
 **Announcements:**
 
-**פרשת כי תצא תשפ"ב**
+**פרשת כי תבוא תשפ"ב**
 
-
-**מזל טוב** 
-
-Mazal tov to the Mayer family upon the bar mitzvah of Menachem!
-
-Mazal tov to the Krasnow family upon the birth of a baby boy! There will be a shalom zachar at the Krasnow home, 6 Bonnie Court, on Friday night at 9:30 PM.
-
-Mazal tov to the Silverstein family upon the birth of a baby boy! 
-
-**קידוש** 
-
-The Mayer Family invites the entire community to a kiddush after davening, in honor of the bar mitzvah of their dear son, Menachem.
 
 **Shiur**
 
-The Rov will be giving a shiur at KZY for women at 4:00 PM on Shabbos day.
+Selichos this Motza’ei Shabbos will be at 12:50 AM. The Rov will speak before, at 12:30 AM.
 
 **תהלים**
 
-Tehillim: KZY, immediately following Rav’s 4:00 PM shiur 
+Tehillim: Royde home, 18 Bonnie Court, 4:00 PM. 
 
-**Women’s Tanya Shiur** will take place at the : Sahler home, 14 Carriage Lane, 5:00 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
+**Women’s Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:45 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
