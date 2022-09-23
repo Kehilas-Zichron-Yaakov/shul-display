@@ -1,15 +1,11 @@
 **Announcements:**
 
-**פרשת כי תבוא תשפ"ב**
+**פרשת נצבים תשפ"ב**
 
-
-**Shiur**
-
-Selichos this Motza’ei Shabbos will be at 12:50 AM. The Rov will speak before, at 12:30 AM.
 
 **תהלים**
 
-Tehillim: Royde home, 18 Bonnie Court, 4:00 PM. 
+Tehillim: Kranczer home, 25 Landau Lane, 4:00 PM. 
 
 **Women’s Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:45 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
