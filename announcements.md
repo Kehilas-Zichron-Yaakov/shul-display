@@ -4,9 +4,8 @@
 
 **שבת שובה**
 
-**תהלים**
 
-Tehillim: At Shul, 4:50 PM. 
+**Tehillim** At Shul, 4:50 PM. 
 
 **Drasha** The Rav will be giving a women’s Shabbos Shuva drasha from 5:10 to 5:45 PM,
 immediately following Tehillim, at KZY.
