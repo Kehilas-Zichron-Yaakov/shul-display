@@ -12,9 +12,7 @@ immediately following Tehillim, at KZY.
 
 The Rav will be giving a men’s Shabbos Shuva drasha between Mincha and Maariv.
 
-**Women’s Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:45 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
-
-**Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
+**Thank you** to the following individuals who helped sponsor our tent this yom tov season: The Richmond, Vachsman, and Meir Families, as well as an anonymous donor.
 
 **בדק הבית חודש תשרי**
 
