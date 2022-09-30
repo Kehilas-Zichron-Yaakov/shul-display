@@ -1,29 +1,32 @@
 **Announcements:**
 
-**פרשת נצבים תשפ"ב**
+**פרשת וילך תשפ"ב**
 
+**שבת שובה**
 
 **תהלים**
 
-Tehillim: Kranczer home, 25 Landau Lane, 4:00 PM. 
+Tehillim: At Shul, 4:50 PM. 
+
+**Drasha** The Rav will be giving a women’s Shabbos Shuva drasha from 5:10 to 5:45 PM,
+immediately following Tehillim, at KZY.
+
+The Rav will be giving a men’s Shabbos Shuva drasha between Mincha and Maariv.
 
 **Women’s Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:45 PM. You are encouraged to attend regardless of whether you attended any previous shiurim. Children are welcome!
 
 **Yahrzeit Plaques** The shul sells individual yahrzeit plaques for $360. If you wish to sponsor a plaque, please contact Pinchas Nussbaum.
 
-**בדק הבית חודש אלול**
+**בדק הבית חודש תשרי**
 
- לז"נ ר' שמואל פינחס בן יהודה אריה הלוי                     
+לע " נ פשה גיטל בת ר ' יחזקאל
 
-נדבת משפחת העבער      
+נפטרה כ "ד תשרי תשע"ד
 
-**נר למאור חודש אלול**
+**נר למאור חודש תשרי**
 
-לע"נ ר' אריה לייב בן ר' יהודה צבי ע"ה
-נפטר ט' אלול תש"פ  
+Dedicated by the Silverstein Family for the hatzlacha, bracha, happiness, health, zivugim, and success of our family and all of Klal Yisroel BE”H
 
- נדבת משפחת ריטשמאנד
+**קפה חודש תשרי**  
 
-**קפה חודש אלול**  
-
-This month’s coffee has been sponsored by Michael and Amy Adler in appreciation of this wonderful community 
+This month’s coffee has been sponsored by the Fruchter family
