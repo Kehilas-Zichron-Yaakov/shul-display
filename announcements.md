@@ -1,18 +1,13 @@
 **Announcements:**
 
-**פרשת וילך תשפ״ג**
-
-**שבת שובה**
+**פרשת בראשית תשפ״ג**
 
 
-**Tehillim** At Shul, 4:50 PM. 
+**Tehillim** Smith home, 8 Carriage Lane, 4:00 PM 
 
-**Drasha** The Rav will be giving a women’s Shabbos Shuva drasha from 5:10 to 5:45 PM,
-immediately following Tehillim, at KZY.
+**Tanya Shiur** Huerta home, 23 Landau Lane, 4:45 PM.
 
-The Rav will be giving a men’s Shabbos Shuva drasha between Mincha and Maariv.
-
-**Thank you** to the following individuals who helped sponsor our tent this yom tov season: The Richmond, Vachsman, and Meir Families, as well as an anonymous donor.
+**Mazal tov** to both our Chosson Torah, Rav Kaiser, and to Chosson Bereishis, Y.L. Celnick
 
 **בדק הבית חודש תשרי**
 
