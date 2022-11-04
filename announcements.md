@@ -20,10 +20,13 @@ We will IY”H be starting the Motza’ei Shabbos father-son learning program ne
 **בדק הבית חודש חשון**
 
 לע"נ החבר צבי בן החבר אהרן מאיר
+
 Mr. Henry Lowenthal
 
 לע"נ מרת רייזל בת ר' בנימין
+
 Mrs. Rae Stein
+
 נדבת משפחת שטיין 
 
 **נר למאור חודש חשון**
