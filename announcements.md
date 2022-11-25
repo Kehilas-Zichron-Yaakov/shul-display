@@ -14,10 +14,8 @@ davening.
 
 **Tanya Shiur**  Huerta home, 23 Landau Lane, 4:00 PM.
 
-**Mazal tov** to Rabbi and Mrs. Moskovitz upon the aufruf of their son, Chaim! The Moskovitz family cordially invite everyone to separate men’s and women’s kiddushim: the men’ s kiddush will be held at KZY, and the women’s kiddush will be held at the Moskovitz home, 23 Greenridge Way
-
-**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata: 6:30 PM. For boys ages 5 and up. Thanks go to the Vaksman family for sponsoring this week, lezecher nishmas Rahil bas Bentzion, and in the זכות for contact please, opportunities sponsorship future for. גרגורי בן יבגניה באשרט בזמנו בקרוב
-Shaya Schiffman.
+**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata: 6:30 PM. For boys ages 5 and up. Thanks go to the Vaksman family for sponsoring this week, lezecher nishmas Rahil bas Bentzion, and in the זכות for גרגורי בן יבגניה באשרט בזמנו בקרוב
+For future opportunities, please contact Shaya Schiffman
 
 **Motza’ei Shabbos Bnos** will take place at the following locations, at the same time as the Learning Program:
 
