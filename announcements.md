@@ -1,44 +1,48 @@
 **Announcements:**
 
-**פרשת לך לך תשפ״ג**
+**פרשת תולדות תשפ״ג**
 
 
-**Tehillim** Knopf home, 34 Carriage Lane, 2:45 PM.
+**Mazal tov** to the Schmulowitz family upon the bar mitzvah of their son, Pinchas! The Schmulowitzes invite the community to a kiddush in his honor, at KZY, following
+davening. 
 
-**Bnos**: Heber home, 6 Flint Road, 2:45 PM. **Grades Pre 1A through 5 only**
+**Tehillim** Krasnow home, 6 Bonnie Court, 2:45 PM
 
-**Pirchei**: Royde home, 18 Bonnie Court, 2:45 PM. **Grades K through 2 only.**
+**Bnos**: will continue next week
 
-**Tanya Shiur** Huerta home, 23 Landau Lane, 4:00 PM.
+**Pirchei**: will continue next week
+
+**Tanya Shiur**  Huerta home, 23 Landau Lane, 4:00 PM.
 
 **Mazal tov** to Rabbi and Mrs. Moskovitz upon the aufruf of their son, Chaim! The Moskovitz family cordially invite everyone to separate men’s and women’s kiddushim: the men’ s kiddush will be held at KZY, and the women’s kiddush will be held at the Moskovitz home, 23 Greenridge Way
 
-We will IY”H be starting the Motza’ei Shabbos father-son learning program next week, Parshas Vayera. Details will follow. For sponsorship opportunities, please contact Shaya Schiffman.
+**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata: 6:30 PM. For boys ages 5 and up. Thanks go to the Vaksman family for sponsoring this week, lezecher nishmas Rahil bas Bentzion, and in the זכות for contact please, opportunities sponsorship future for. גרגורי בן יבגניה באשרט בזמנו בקרוב
+Shaya Schiffman.
 
-**Reminder: the Rav's Hachtara will take place on Sunday, November 13. An exciting event is being planned. Please RSVP to kzyhachtara@gmail.com as soon as possible to let us know if you and/or your spouse can attend.**
+**Motza’ei Shabbos Bnos** will take place at the following locations, at the same time as the Learning Program:
 
-**בדק הבית חודש חשון**
+4th and 5th grade girls: Kapnick home, 2 Arthur Court
 
-לע"נ החבר צבי בן החבר אהרן מאיר
+6th through 8th grade girls: Grossman home, 7 Durante Court
 
-Mr. Henry Lowenthal
 
-לע"נ מרת רייזל בת ר' בנימין
+**בדק הבית חודש כסלו**
 
-Mrs. Rae Stein
+לע"נ ר' צבי יהודה בן ר' משה
 
-נדבת משפחת שטיין 
+לע"נ רות בת ר' צבי יהודה  
 
-**נר למאור חודש חשון**
+**נר למאור חודש כסלו**
 
-לע"נ סימא פרל בת ר' אריה לייב
+לעילוי נשמת
+אסתר טיקא בת ישי
 
-נפטרה י"ב מר חשון תשע"ב
+נדבת משפחת גולדברג
 
-נדבת ע"י משפחת ריטשמאנד
+**קפה חודש כסלו**  
 
-**קפה חודש תשרי**  
+This month’s coffee has been sponsored by the Anonymous Family:
 
-This month’s coffee has been sponsored by the Richmond Family in memory of
-סימא פרל בת ר ' אריה לייב
-נפטרה י "ב מר חשון תשע "ב
+How do we know from Tanach that in Judaism, it is and always has been the man of the household who prepares the coffee? All who solve this riddle may partake of this month's delightful pick-me-up beverage to their heart's content!
+
+“Anonymously sponsored by our favorite dentist”
