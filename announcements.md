@@ -1,46 +1,47 @@
 **Announcements:**
 
-**פרשת תולדות תשפ״ג**
+**פרשת וארא תשפ״ג**
 
 
-**Mazal tov** to the Schmulowitz family upon the bar mitzvah of their son, Pinchas! The Schmulowitzes invite the community to a kiddush in his honor, at KZY, following
-davening. 
+This Shabbos is Shabbos Mevorchim. Rosh Chodesh Shevat will begin on Sunday evening (1/22) and end on Monday night (1/23).
 
-**Tehillim** Krasnow home, 6 Bonnie Court, 2:45 PM
+**Kiddush** this week is sponsored by Gali and Hendy Weiss upon the occasion of the birth of their daughter, Aliza Leah.**
+
+**Tehillim** : Areman home, 26 Sunny Ridge Road, 2:45 PM
 
 **Bnos**: will continue next week
 
 **Pirchei**: will continue next week
 
-**Tanya Shiur**  Huerta home, 23 Landau Lane, 4:00 PM.
+**Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:00 PM
 
-**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata: 6:30 PM. For boys ages 5 and up. Thanks go to the Vaksman family for sponsoring this week, lezecher nishmas Rahil bas Bentzion, and in the זכות for גרגורי בן יבגניה באשרט בזמנו בקרוב
-For future opportunities, please contact Shaya Schiffman
+**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 6:50 PM. For boys ages 5 and up. This week has been sponsored by the Benovitz family. For future sponsorship opportunities, please contact Shaya Schiffman.
 
-**Motza’ei Shabbos Bnos** will take place at the following locations, at the same time as the Learning Program:
+**Motza’ei Shabbos Bnos** NEW TIME, 6:50 PM:
 
-4th and 5th grade girls: Kapnick home, 2 Arthur Court
+4th and 5th grade girls: Binder home, 48 Greenridge Way.
 
-6th through 8th grade girls: Grossman home, 7 Durante Court
+6th through 8th grade girls: Royde home, 18 Bonnie Court.
 
+**נר למאור חודש טבת**
 
-**בדק הבית חודש כסלו**
+לע״נ ר׳ ישראל ראובן
+ב״ר רפאל אליעזר הכהן
 
-לע"נ ר' צבי יהודה בן ר' משה
+ולע״נ צפורה פייגל בת ר׳ יצחק אלחנן
 
-לע"נ רות בת ר' צבי יהודה  
+נדבת משפחת קראנצער 
 
-**נר למאור חודש כסלו**
+**בדק הבית חודש טבת**
 
-לעילוי נשמת
-אסתר טיקא בת ישי
+לע"נ מרת רבקה בת ר' צבי
+נפטרה ו' טבת תשע"ב
 
-נדבת משפחת גולדברג
+ניתרם ע"י משפחת ריטשמאנד  
 
-**קפה חודש כסלו**  
+**קפה חודש טבת**  
 
-This month’s coffee has been sponsored by the Anonymous Family:
+לע"נ מרת רבקה בת ר' צבי
+נפטרה ו' טבת תשע"ב
 
-How do we know from Tanach that in Judaism, it is and always has been the man of the household who prepares the coffee? All who solve this riddle may partake of this month's delightful pick-me-up beverage to their heart's content!
-
-“Anonymously sponsored by our favorite dentist”
+ניתרם ע"י משפחת ריטשמאנד
