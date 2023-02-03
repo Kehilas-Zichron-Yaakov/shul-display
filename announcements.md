@@ -11,7 +11,10 @@
 
 **Tanya Shiur**  Sobol home, 25 Rensselaer Drive, 4:00 PM
 
-**Motza’ei Shabbos Learning Program** , in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 7:15 PM. For boys ages 5 and up. This week has been sponsored by the Schiffman family, לע״נ ר׳ ישעי׳ ב״ר יחיאל, ולע״נ ר׳ משה אהרן ב״ר ישראל אלי׳ הכהן
+**Motza’ei Shabbos Learning Program** , in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 7:15 PM. For boys ages 5 and up. This week has been sponsored by the Schiffman family,
+לע״נ ר׳ ישעי׳ ב״ר יחיאל
+
+ולע״נ ר׳ משה אהרן ב״ר ישראל אלי׳ הכהן
 
 **Motza’ei Shabbos Bnos** NEW TIME, 7:15 PM:
 
@@ -22,11 +25,13 @@
 **נר למאור חודש שבט**
 
 לע''נ ר' ישע' בן ר' יחיאל
+
 לע''נ ר' משה אהרן בן ר' ישראל אלי' הכהן
 
 נדבת משפחת שיפמאן
 
 לרפואה שלמה של חנה בת רחל
+
 לרפואה שלמה של ברכ ה בת חנה
 
 נדבת משפחת מזרחי 
@@ -34,6 +39,7 @@
 **בדק הבית חודש שבט**
 
 לע''נ חיה סערל בת ר' צבי
+
 נפטרה כ"ג שבט תשס"ז
 
 נדבת משפחת הרשקוביץ  
