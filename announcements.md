@@ -1,47 +1,43 @@
 **Announcements:**
 
-**פרשת וארא תשפ״ג**
+**פרשת בשלח תשפ״ג**
 
 
-This Shabbos is Shabbos Mevorchim. Rosh Chodesh Shevat will begin on Sunday evening (1/22) and end on Monday night (1/23).
+**Tehillim** : Kranczer home, 25 Landau Lane, 2:45 PM
 
-**Kiddush** this week is sponsored by Gali and Hendy Weiss upon the occasion of the birth of their daughter, Aliza Leah.**
+**Bnos**:  Vorchheimer home, 2 Bonnie Court, 2:45 PM
 
-**Tehillim** : Areman home, 26 Sunny Ridge Road, 2:45 PM
+**Pirchei**: Schmulewitz home, 9 Tioken Road, 2:45 PM
 
-**Bnos**: will continue next week
+**Tanya Shiur**  Sobol home, 25 Rensselaer Drive, 4:00 PM
 
-**Pirchei**: will continue next week
+**Motza’ei Shabbos Learning Program** , in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 7:15 PM. For boys ages 5 and up. This week has been sponsored by the Schiffman family, לע״נ ר׳ ישעי׳ ב״ר יחיאל, ולע״נ ר׳ משה אהרן ב״ר ישראל אלי׳ הכהן
 
-**Tanya Shiur**  Silverstein home, 34 Greenridge Way, 4:00 PM
+**Motza’ei Shabbos Bnos** NEW TIME, 7:15 PM:
 
-**Motza’ei Shabbos Learning Program** in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 6:50 PM. For boys ages 5 and up. This week has been sponsored by the Benovitz family. For future sponsorship opportunities, please contact Shaya Schiffman.
+4th and 5th grade girls: Royde home, 18 Bonnie Court
 
-**Motza’ei Shabbos Bnos** NEW TIME, 6:50 PM:
+6th through 8th grade girls: Staum home, 3 Landau Lane
 
-4th and 5th grade girls: Binder home, 48 Greenridge Way.
+**נר למאור חודש שבט**
 
-6th through 8th grade girls: Royde home, 18 Bonnie Court.
+לע''נ ר' ישע' בן ר' יחיאל
+לע''נ ר' משה אהרן בן ר' ישראל אלי' הכהן
 
-**נר למאור חודש טבת**
+נדבת משפחת שיפמאן
 
-לע״נ ר׳ ישראל ראובן
-ב״ר רפאל אליעזר הכהן
+לרפואה שלמה של חנה בת רחל
+לרפואה שלמה של ברכ ה בת חנה
 
-ולע״נ צפורה פייגל בת ר׳ יצחק אלחנן
+נדבת משפחת מזרחי 
 
-נדבת משפחת קראנצער 
+**בדק הבית חודש שבט**
 
-**בדק הבית חודש טבת**
+לע''נ חיה סערל בת ר' צבי
+נפטרה כ"ג שבט תשס"ז
 
-לע"נ מרת רבקה בת ר' צבי
-נפטרה ו' טבת תשע"ב
+נדבת משפחת הרשקוביץ  
 
-ניתרם ע"י משפחת ריטשמאנד  
+**קפה חודש שבט**  
 
-**קפה חודש טבת**  
-
-לע"נ מרת רבקה בת ר' צבי
-נפטרה ו' טבת תשע"ב
-
-ניתרם ע"י משפחת ריטשמאנד
+This month’s coffee has been sponsored by the Wiener family in honor of Thank You Hashem.
