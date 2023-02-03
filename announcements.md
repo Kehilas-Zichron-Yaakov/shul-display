@@ -3,6 +3,7 @@
 **פרשת בשלח תשפ״ג**
 
 
+
 **Tehillim** : Kranczer home, 25 Landau Lane, 2:45 PM
 
 **Bnos**:  Vorchheimer home, 2 Bonnie Court, 2:45 PM
@@ -12,6 +13,7 @@
 **Tanya Shiur**  Sobol home, 25 Rensselaer Drive, 4:00 PM
 
 **Motza’ei Shabbos Learning Program** , in the zechus of a refuah sheleima for Dovid Shalom ben Rifka Zlata and Shloma Menachem HaKohen ben Sarah Neecha: NEW TIME, 7:15 PM. For boys ages 5 and up. This week has been sponsored by the Schiffman family,
+
 לע״נ ר׳ ישעי׳ ב״ר יחיאל
 
 ולע״נ ר׳ משה אהרן ב״ר ישראל אלי׳ הכהן
