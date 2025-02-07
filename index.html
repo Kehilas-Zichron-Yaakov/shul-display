@@ -1,71 +1,71 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width" />
-        <title>KZY Display</title>
-        <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="refresh" content="3600" />
+    <title>KZY Display</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
 
-        <script src="./libs/kosher-zmanim.min.js"></script>
-        <script src="./libs/moment.js" defer></script>
-        <script src="./libs/moment-with-locales.js" defer></script>
-        <script src="./libs/showdown.min.js" defer></script>
-        <script src="./main.js" defer></script>
-    </head>
-    <body>
-        <header>
-            <div class="wrapper">
-                <div class="col text-left refresh-time"></div>
-                <div class="col">Kehilas Zichron Yaakov</div>
-                <div class="col text-right"><small>BS"D</small></div>
-            </div>
-        </header>
-        <main>
-            <div class="wrapper">
-                <div class="col frosted">
-                    <h1>Schedule</h1>
-                    <div class="schedule"></div>
-                </div>
-                <div class="col frosted">
-                    <h1>Announcements</h1>
-                    <div class="announcements"></div>
-                </div>
-                <div class="col frosted">
-                    <h1>Today's Zmanim</h1>
-                    <div class="zmanim"></div>
-                    <br />
-                    <small
-                        ><em
-                            >It is good to go lechumra on the zmanim by 1-2
-                            minutes if possible.
-                        </em></small
-                    >
-                    <br />
-                    <br />
-                    <small
-                        ><em
-                            >Zmanim are calculated using a javascript
-                            implementation of the KosherJava Zmanim library. The
-                            zmanim are calculated based on the shul's latitude,
-                            longitude, and elevation; which is 41.137804,
-                            -74.044059, 169 meters respectively.
-                        </em></small
-                    >
-                </div>
-            </div>
-        </main>
-        <footer>
-            <div class="wrapper">
-                <div class="col text-left">
-                    <span class="hebrew-date"></span>
-                </div>
-                <div class="col text-center">
-                    <span class="time"></span>
-                </div>
-                <div class="col text-right">
-                    <span class="english-date"></span>
-                </div>
-            </div>
-        </footer>
-    </body>
+    <script src="./libs/kosher-zmanim.min.js"></script>
+    <script src="./libs/moment.js" defer></script>
+    <script src="./libs/moment-with-locales.js" defer></script>
+    <script src="./libs/showdown.min.js" defer></script>
+    <script src="./main.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="wrapper">
+        <div class="col text-left refresh-time"></div>
+        <div class="col">Kehilas Zichron Yaakov</div>
+        <div class="col text-right"><small>BS"D</small></div>
+      </div>
+    </header>
+    <main>
+      <div class="wrapper">
+        <!-- <div class="col frosted"> -->
+        <!--     <h1>Schedule</h1> -->
+        <!--     <div class="schedule"></div> -->
+        <!-- </div> -->
+        <!-- <div class="col frosted"> -->
+        <!--     <h1>Announcements</h1> -->
+        <!--     <div class="announcements"></div> -->
+        <!-- </div> -->
+        <div class="col frosted" style="font-size: 32pt; padding: 50px">
+          <h1>Today's Zmanim</h1>
+          <div class="zmanim"></div>
+          <br />
+          <small
+            ><em
+              >It is good to go lechumra on the zmanim by 1-2 minutes if
+              possible.
+            </em></small
+          >
+          <br />
+          <br />
+          <small
+            ><em
+              >Zmanim are calculated using a javascript implementation of the
+              KosherJava Zmanim library. The zmanim are calculated based on the
+              shul's latitude, longitude, and elevation; which is 41.137804,
+              -74.044059, 169 meters respectively.
+            </em></small
+          >
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="wrapper">
+        <div class="col text-left">
+          <span class="hebrew-date"></span>
+        </div>
+        <div class="col text-center">
+          <span class="time"></span>
+        </div>
+        <div class="col text-right">
+          <span class="english-date"></span>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>
